@@ -12,8 +12,8 @@
     "grocer": "tsx src/cli/grocer.ts",
     "build": "tsc",
     "web:dev": "npm -w web run dev",
-    "web:build": "npm run cache:sync && npm -w web run build",
-    "web:deploy": "cd web && npx wrangler deploy",
+    "web:build": "npm -w web run build",
+    "web:deploy": "npm -w web run deploy",
     "cache:sync": "node scripts/sync-cache.mjs"
   },
   "dependencies": {
