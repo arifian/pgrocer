@@ -1,0 +1,9594 @@
+[
+  {
+    "name": "Baked Potato",
+    "level": 0,
+    "ingredients": [
+      {
+        "name": "Potato",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Baked Potato",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor Training: Hiral"
+  },
+  {
+    "name": "Boiled Crab",
+    "level": 0,
+    "ingredients": [
+      {
+        "name": "Crab Meat",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Boiled Crab",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Durstin Tallow Training: Fainor Training: Squidlips"
+  },
+  {
+    "name": "Fried Clownfish",
+    "level": 0,
+    "ingredients": [
+      {
+        "name": "Clownfish Fillet",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Fried Clownfish",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Durstin Tallow Training: Fainor"
+  },
+  {
+    "name": "Honey Ham",
+    "level": 0,
+    "ingredients": [
+      {
+        "name": "Pork Shoulder",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 3
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Honey Ham",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Potato Wedges",
+    "level": 0,
+    "ingredients": [
+      {
+        "name": "Potato",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Potato Wedges",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Durstin Tallow Training: Fainor Training: Hiral"
+  },
+  {
+    "name": "Watery Mushroom Soup",
+    "level": 0,
+    "ingredients": [
+      {
+        "name": "Parasol Mushroom",
+        "qty": 3
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Watery Mushroom Soup",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Durstin Tallow"
+  },
+  {
+    "name": "Hard-Boiled Egg",
+    "level": 1,
+    "ingredients": [
+      {
+        "name": "Egg",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Hard-Boiled Egg",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Durstin Tallow Training: Fainor Training: Hiral"
+  },
+  {
+    "name": "Perfectly Baked Potato",
+    "level": 1,
+    "ingredients": [
+      {
+        "name": "Potato",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 4
+      }
+    ],
+    "results": [
+      {
+        "name": "Perfectly Baked Potato",
+        "qty": 1
+      }
+    ],
+    "source": "Hang Out: Jesina"
+  },
+  {
+    "name": "Candied Apple",
+    "level": 3,
+    "ingredients": [
+      {
+        "name": "Red Apple",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 2
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Candied Apple",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Quest: Zhia Lian Event: Candied Apples Training: Durstin Tallow"
+  },
+  {
+    "name": "Fish Cakes",
+    "level": 3,
+    "ingredients": [
+      {
+        "name": "Flour",
+        "qty": 3
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      },
+      {
+        "name": "Small Freshwater Fish Fillet",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Fish Cakes",
+        "qty": 1
+      }
+    ],
+    "source": "Leveling: Angling"
+  },
+  {
+    "name": "Raw Egg Blend",
+    "level": 3,
+    "ingredients": [
+      {
+        "name": "Egg",
+        "qty": 2
+      },
+      {
+        "name": "Bottle of Milk",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Raw Egg Blend",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Quest: Holistic Wellness: Raw Egg Blend"
+  },
+  {
+    "name": "Fried Mycena Bites",
+    "level": 4,
+    "ingredients": [
+      {
+        "name": "Mycena Mushroom",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Fried Mycena Bites",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Durstin Tallow"
+  },
+  {
+    "name": "Bacon",
+    "level": 5,
+    "ingredients": [
+      {
+        "name": "Pork Shoulder",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 2
+      }
+    ],
+    "results": [
+      {
+        "name": "Bacon",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Durstin Tallow Training: Fainor"
+  },
+  {
+    "name": "Beginner's Buttermilk",
+    "level": 5,
+    "ingredients": [
+      {
+        "name": "Bottle of Milk",
+        "qty": 1
+      },
+      {
+        "name": "Butter",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Beginner's Buttermilk",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Braigon"
+  },
+  {
+    "name": "Bland Baked Chicken",
+    "level": 5,
+    "ingredients": [
+      {
+        "name": "Raw Chicken",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Bland Baked Chicken",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Bland Gingerbread Human",
+    "level": 5,
+    "ingredients": [
+      {
+        "name": "Egg",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 2
+      },
+      {
+        "name": "Sugar",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Bland Gingerbread Human",
+        "qty": 1
+      }
+    ],
+    "source": "Quest: Event: Gingerbread Humans"
+  },
+  {
+    "name": "Flatbread",
+    "level": 5,
+    "ingredients": [
+      {
+        "name": "Flour",
+        "qty": 3
+      },
+      {
+        "name": "Salt",
+        "qty": 2
+      },
+      {
+        "name": "Sugar",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Flatbread",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Flatbread Training: Fainor"
+  },
+  {
+    "name": "Hash Browns",
+    "level": 5,
+    "ingredients": [
+      {
+        "name": "Potato",
+        "qty": 2
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Hash Browns",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor Training: Hiral"
+  },
+  {
+    "name": "Onion Blossom",
+    "level": 5,
+    "ingredients": [
+      {
+        "name": "Onion",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Onion Blossom",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor Training: Hiral"
+  },
+  {
+    "name": "Onion Rings",
+    "level": 5,
+    "ingredients": [
+      {
+        "name": "Onion",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Onion Rings",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor Training: Hiral"
+  },
+  {
+    "name": "Panfried Pinfish",
+    "level": 5,
+    "ingredients": [
+      {
+        "name": "Pinfish Fillet",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Panfried Pinfish",
+        "qty": 1
+      }
+    ],
+    "source": "Quest: Angling: Invasive Species"
+  },
+  {
+    "name": "Strawberry Bowl",
+    "level": 5,
+    "ingredients": [
+      {
+        "name": "Large Strawberry",
+        "qty": 3
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 3
+      }
+    ],
+    "results": [
+      {
+        "name": "Strawberry Bowl",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Durstin Tallow Training: Fainor"
+  },
+  {
+    "name": "Venison Psi-Mantis Style",
+    "level": 5,
+    "ingredients": [
+      {
+        "name": "Venison",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Milk",
+        "qty": 1
+      },
+      {
+        "name": "Clownfish Fillet",
+        "qty": 1
+      },
+      {
+        "name": "Basic Fish Scales",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Venison Psi-Mantis Style",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Venison Psi-Mantis Style Training: Azalak"
+  },
+  {
+    "name": "Pork Chops with Watercress",
+    "level": 6,
+    "ingredients": [
+      {
+        "name": "Pork Shoulder",
+        "qty": 1
+      },
+      {
+        "name": "Watercress",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Pork Chops with Watercress",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Durstin Tallow"
+  },
+  {
+    "name": "Clownfish Chowder",
+    "level": 7,
+    "ingredients": [
+      {
+        "name": "Clownfish Fillet",
+        "qty": 3
+      },
+      {
+        "name": "Bottle of Milk",
+        "qty": 1
+      },
+      {
+        "name": "Potato",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Clownfish Chowder",
+        "qty": 3
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Durstin Tallow"
+  },
+  {
+    "name": "Soft-Boiled Egg",
+    "level": 7,
+    "ingredients": [
+      {
+        "name": "Egg",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 2
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Soft-Boiled Egg",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Bland Baked Turkey",
+    "level": 8,
+    "ingredients": [
+      {
+        "name": "Raw Turkey",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 2
+      }
+    ],
+    "results": [
+      {
+        "name": "Bland Baked Turkey",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Bland Baked Turkey"
+  },
+  {
+    "name": "Fish and Mushroom Scramble",
+    "level": 8,
+    "ingredients": [
+      {
+        "name": "Clownfish Fillet",
+        "qty": 1
+      },
+      {
+        "name": "Parasol Mushroom",
+        "qty": 1
+      },
+      {
+        "name": "Egg",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Fish and Mushroom Scramble",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Durstin Tallow"
+  },
+  {
+    "name": "Mystery Jerky",
+    "level": 8,
+    "ingredients": [
+      {
+        "name": "Salt",
+        "qty": 5
+      },
+      {
+        "name": "Oak Wood Chips",
+        "qty": 1
+      },
+      {
+        "name": "Cheap Meat",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Mystery Jerky",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Mystery Jerky"
+  },
+  {
+    "name": "Chicken and Watercress Soup",
+    "level": 9,
+    "ingredients": [
+      {
+        "name": "Raw Chicken",
+        "qty": 1
+      },
+      {
+        "name": "Watercress",
+        "qty": 2
+      },
+      {
+        "name": "Potato",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Chicken and Watercress Soup",
+        "qty": 2
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Durstin Tallow"
+  },
+  {
+    "name": "Dried Cranberries",
+    "level": 9,
+    "ingredients": [
+      {
+        "name": "Cranberries",
+        "qty": 1
+      },
+      {
+        "name": "Red Apple",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 1
+      },
+      {
+        "name": "Oak Wood Chips",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Dried Cranberries",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Dried Cranberries"
+  },
+  {
+    "name": "Apple Juice",
+    "level": 10,
+    "ingredients": [
+      {
+        "name": "Red Apple",
+        "qty": 3
+      },
+      {
+        "name": "Sugar",
+        "qty": 2
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Apple Juice",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Therese"
+  },
+  {
+    "name": "Boiled Cabbage",
+    "level": 10,
+    "ingredients": [
+      {
+        "name": "Cabbage",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 2
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Boiled Cabbage",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Boring Fruit Cocktail",
+    "level": 10,
+    "ingredients": [
+      {
+        "name": "Red Apple",
+        "qty": 1
+      },
+      {
+        "name": "Large Strawberry",
+        "qty": 2
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 3
+      }
+    ],
+    "results": [
+      {
+        "name": "Boring Fruit Cocktail",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Buttered Baked Potato",
+    "level": 10,
+    "ingredients": [
+      {
+        "name": "Potato",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      },
+      {
+        "name": "Butter",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Buttered Baked Potato",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor Training: Hiral"
+  },
+  {
+    "name": "Chicken Psi-Mantis Style",
+    "level": 10,
+    "ingredients": [
+      {
+        "name": "Raw Chicken",
+        "qty": 1
+      },
+      {
+        "name": "Crab Meat",
+        "qty": 2
+      },
+      {
+        "name": "Cabbage",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Chicken Psi-Mantis Style",
+        "qty": 1
+      }
+    ],
+    "source": "Quest: Dinner For Zeratak"
+  },
+  {
+    "name": "Cream of Mushroom Soup",
+    "level": 10,
+    "ingredients": [
+      {
+        "name": "Boletus Mushroom",
+        "qty": 6
+      },
+      {
+        "name": "Bottle of Milk",
+        "qty": 1
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Cream of Mushroom Soup",
+        "qty": 2
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Durstin Tallow"
+  },
+  {
+    "name": "Fried Fish",
+    "level": 10,
+    "ingredients": [
+      {
+        "name": "Onion",
+        "qty": 3
+      },
+      {
+        "name": "Flour",
+        "qty": 3
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      },
+      {
+        "name": "Small Saltwater Fish Fillet",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Fried Fish",
+        "qty": 1
+      }
+    ],
+    "source": "Leveling: Angling"
+  },
+  {
+    "name": "Fried Lamb Chops",
+    "level": 10,
+    "ingredients": [
+      {
+        "name": "Mutton",
+        "qty": 2
+      },
+      {
+        "name": "Butter",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 2
+      }
+    ],
+    "results": [
+      {
+        "name": "Fried Lamb Chops",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Durstin Tallow"
+  },
+  {
+    "name": "Fried Potato Sticks",
+    "level": 10,
+    "ingredients": [
+      {
+        "name": "Potato",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      },
+      {
+        "name": "Vegetable Oil",
+        "qty": 2
+      }
+    ],
+    "results": [
+      {
+        "name": "Fried Potato Sticks",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Fried Potato Sticks"
+  },
+  {
+    "name": "Grapefish Steak",
+    "level": 10,
+    "ingredients": [
+      {
+        "name": "Grapefish Fillet",
+        "qty": 2
+      }
+    ],
+    "results": [
+      {
+        "name": "Grapefish Steak",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Sun Vale Tea",
+    "level": 10,
+    "ingredients": [
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Decent Tannin Powder",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 2
+      },
+      {
+        "name": "Red Apple",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Sun Vale Tea",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Hiral"
+  },
+  {
+    "name": "Venison Jerky",
+    "level": 10,
+    "ingredients": [
+      {
+        "name": "Venison",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 5
+      },
+      {
+        "name": "Oak Wood Chips",
+        "qty": 2
+      }
+    ],
+    "results": [
+      {
+        "name": "Venison Jerky",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Watercress Salad",
+    "level": 11,
+    "ingredients": [
+      {
+        "name": "Watercress",
+        "qty": 5
+      },
+      {
+        "name": "Olive Oil",
+        "qty": 1
+      },
+      {
+        "name": "Basic Vinegar",
+        "qty": 1
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Watercress Salad",
+        "qty": 5
+      }
+    ],
+    "source": "Training: Durstin Tallow"
+  },
+  {
+    "name": "Fried Boletus Bites",
+    "level": 12,
+    "ingredients": [
+      {
+        "name": "Boletus Mushroom",
+        "qty": 2
+      },
+      {
+        "name": "Watercress",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      },
+      {
+        "name": "Vegetable Oil",
+        "qty": 2
+      }
+    ],
+    "results": [
+      {
+        "name": "Fried Boletus Bites",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Fried Boletus Bites"
+  },
+  {
+    "name": "Pork Chops with Grape Jelly",
+    "level": 12,
+    "ingredients": [
+      {
+        "name": "Pork Shoulder",
+        "qty": 1
+      },
+      {
+        "name": "Grapes",
+        "qty": 2
+      },
+      {
+        "name": "Sugar",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Pork Chops with Grape Jelly",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Durstin Tallow"
+  },
+  {
+    "name": "Bacon Basket",
+    "level": 13,
+    "ingredients": [
+      {
+        "name": "Bacon",
+        "qty": 3
+      },
+      {
+        "name": "Venison",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 3
+      }
+    ],
+    "results": [
+      {
+        "name": "Bacon Basket",
+        "qty": 1
+      }
+    ],
+    "source": "Quest: Holistic Wellness: Bacon Basket"
+  },
+  {
+    "name": "Candied Grapes",
+    "level": 13,
+    "ingredients": [
+      {
+        "name": "Grapes",
+        "qty": 3
+      },
+      {
+        "name": "Sugar",
+        "qty": 3
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Candied Grapes",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Durstin Tallow"
+  },
+  {
+    "name": "Grape Juice",
+    "level": 13,
+    "ingredients": [
+      {
+        "name": "Grapes",
+        "qty": 3
+      },
+      {
+        "name": "Sugar",
+        "qty": 2
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Grape Juice",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Julius Patton"
+  },
+  {
+    "name": "Leftover Turkey Sandwich",
+    "level": 13,
+    "ingredients": [
+      {
+        "name": "Bland Baked Turkey",
+        "qty": 1
+      },
+      {
+        "name": "Flatbread",
+        "qty": 1
+      },
+      {
+        "name": "Cranberries",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Leftover Turkey Sandwich",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Leftover Turkey Sandwich"
+  },
+  {
+    "name": "Cranberry-Barbecue Mutton",
+    "level": 14,
+    "ingredients": [
+      {
+        "name": "Mutton",
+        "qty": 1
+      },
+      {
+        "name": "Cranberries",
+        "qty": 1
+      },
+      {
+        "name": "Oak Wood Chips",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Cranberry-Barbecue Mutton",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Cranberry-Barbecue Mutton"
+  },
+  {
+    "name": "Scrambled Egg",
+    "level": 14,
+    "ingredients": [
+      {
+        "name": "Egg",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      },
+      {
+        "name": "Peppercorns",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Scrambled Egg",
+        "qty": 1
+      }
+    ],
+    "source": "Hang Out: Durstin Tallow"
+  },
+  {
+    "name": "Succulent Pork Chops",
+    "level": 14,
+    "ingredients": [
+      {
+        "name": "Pork Shoulder",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Brine",
+        "qty": 1
+      },
+      {
+        "name": "Mandrake Root",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Succulent Pork Chops",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Succulent Pork Chops"
+  },
+  {
+    "name": "Basic Cranberry Sauce",
+    "level": 15,
+    "ingredients": [
+      {
+        "name": "Cranberries",
+        "qty": 3
+      },
+      {
+        "name": "Sugar",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Basic Cranberry Sauce",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Basic Cranberry Sauce"
+  },
+  {
+    "name": "Cabbage Soup",
+    "level": 15,
+    "ingredients": [
+      {
+        "name": "Cabbage",
+        "qty": 2
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 3
+      },
+      {
+        "name": "Potato",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Cabbage Soup",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Quest: Cabbage Time"
+  },
+  {
+    "name": "Cheesy Baked Potato",
+    "level": 15,
+    "ingredients": [
+      {
+        "name": "Potato",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 2
+      },
+      {
+        "name": "Mild Cheddar Cheese",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Cheesy Baked Potato",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Chicken Drumstick",
+    "level": 15,
+    "ingredients": [
+      {
+        "name": "Raw Chicken",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 2
+      },
+      {
+        "name": "Oak Wood Chips",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 2
+      }
+    ],
+    "results": [
+      {
+        "name": "Chicken Drumstick",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Fried Crab",
+    "level": 15,
+    "ingredients": [
+      {
+        "name": "Crab Meat",
+        "qty": 12
+      },
+      {
+        "name": "Bottle of Milk",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 3
+      }
+    ],
+    "results": [
+      {
+        "name": "Fried Crab",
+        "qty": 3
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Fried Crab"
+  },
+  {
+    "name": "Fried Lungfish",
+    "level": 15,
+    "ingredients": [
+      {
+        "name": "Lungfish Fillet",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      },
+      {
+        "name": "Vegetable Oil",
+        "qty": 2
+      }
+    ],
+    "results": [
+      {
+        "name": "Fried Lungfish",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Fried Lungfish"
+  },
+  {
+    "name": "Laura's Crab Biscuits",
+    "level": 15,
+    "ingredients": [
+      {
+        "name": "Flour",
+        "qty": 6
+      },
+      {
+        "name": "Salt",
+        "qty": 5
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 2
+      },
+      {
+        "name": "Butter",
+        "qty": 1
+      },
+      {
+        "name": "Crab Meat",
+        "qty": 4
+      }
+    ],
+    "results": [
+      {
+        "name": "Laura's Crab Biscuits",
+        "qty": 3
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 2
+      }
+    ],
+    "source": "Hang Out: Laura Neth"
+  },
+  {
+    "name": "Onion Omelet",
+    "level": 15,
+    "ingredients": [
+      {
+        "name": "Egg",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      },
+      {
+        "name": "Potato",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Onion Omelet",
+        "qty": 1
+      }
+    ],
+    "source": "Quest: A Crop of Onions"
+  },
+  {
+    "name": "Poached Egg",
+    "level": 15,
+    "ingredients": [
+      {
+        "name": "Egg",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 2
+      },
+      {
+        "name": "Peppercorns",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Poached Egg",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Poached Egg"
+  },
+  {
+    "name": "Sausage",
+    "level": 15,
+    "ingredients": [
+      {
+        "name": "Pork Shoulder",
+        "qty": 2
+      },
+      {
+        "name": "Venison",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 2
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Sausage",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Slightly Sub-Par Fruit Cocktail",
+    "level": 15,
+    "ingredients": [
+      {
+        "name": "Red Apple",
+        "qty": 1
+      },
+      {
+        "name": "Large Strawberry",
+        "qty": 1
+      },
+      {
+        "name": "Grapes",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 3
+      }
+    ],
+    "results": [
+      {
+        "name": "Slightly Sub-Par Fruit Cocktail",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Turkey Gravy",
+    "level": 15,
+    "ingredients": [
+      {
+        "name": "Raw Turkey",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Milk",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Turkey Gravy",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Turkey Gravy"
+  },
+  {
+    "name": "Turkey Leg",
+    "level": 15,
+    "ingredients": [
+      {
+        "name": "Raw Turkey",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 2
+      },
+      {
+        "name": "Oak Wood Chips",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Turkey Leg",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Turkey Leg"
+  },
+  {
+    "name": "Venison Roast",
+    "level": 15,
+    "ingredients": [
+      {
+        "name": "Venison",
+        "qty": 1
+      },
+      {
+        "name": "Oak Wood Chips",
+        "qty": 2
+      },
+      {
+        "name": "Vegetable Oil",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Venison Roast",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Well-Baked Turkey",
+    "level": 15,
+    "ingredients": [
+      {
+        "name": "Raw Turkey",
+        "qty": 1
+      },
+      {
+        "name": "Oak Wood Chips",
+        "qty": 1
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 2
+      }
+    ],
+    "results": [
+      {
+        "name": "Well-Baked Turkey",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Well-Baked Turkey"
+  },
+  {
+    "name": "Cat Stew Cup",
+    "level": 16,
+    "ingredients": [
+      {
+        "name": "Stringy Cat Meat",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 2
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      },
+      {
+        "name": "Egg",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Meat Tenderizer",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Cat Stew Cup",
+        "qty": 1
+      }
+    ],
+    "source": "Hang Out: Nishika"
+  },
+  {
+    "name": "Grapefish and Eggs",
+    "level": 16,
+    "ingredients": [
+      {
+        "name": "Grapefish Fillet",
+        "qty": 2
+      },
+      {
+        "name": "Egg",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 2
+      }
+    ],
+    "results": [
+      {
+        "name": "Grapefish and Eggs",
+        "qty": 1
+      }
+    ],
+    "source": "Quest: The Grapefish Roundup, Part 2"
+  },
+  {
+    "name": "Lungfish Kabob",
+    "level": 17,
+    "ingredients": [
+      {
+        "name": "Lungfish Fillet",
+        "qty": 1
+      },
+      {
+        "name": "Watercress",
+        "qty": 1
+      },
+      {
+        "name": "Boletus Mushroom",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Lungfish Kabob",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Lungfish Kabob"
+  },
+  {
+    "name": "Serbule-Style Lamb Chops",
+    "level": 17,
+    "ingredients": [
+      {
+        "name": "Mutton",
+        "qty": 1
+      },
+      {
+        "name": "Watercress",
+        "qty": 1
+      },
+      {
+        "name": "Boletus Mushroom",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Serbule-Style Lamb Chops",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Durstin Tallow"
+  },
+  {
+    "name": "Turkey Peasant-Bake",
+    "level": 18,
+    "ingredients": [
+      {
+        "name": "Raw Turkey",
+        "qty": 1
+      },
+      {
+        "name": "Potato",
+        "qty": 2
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Turkey Peasant-Bake",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Turkey Peasant-Bake"
+  },
+  {
+    "name": "Durstin's Mutton Stew",
+    "level": 19,
+    "ingredients": [
+      {
+        "name": "Mutton",
+        "qty": 3
+      },
+      {
+        "name": "Potato",
+        "qty": 2
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      },
+      {
+        "name": "Cabbage",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Durstin's Mutton Stew",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Durstin Tallow"
+  },
+  {
+    "name": "Baked Beets",
+    "level": 20,
+    "ingredients": [
+      {
+        "name": "Beet",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 2
+      },
+      {
+        "name": "Basic Vinegar",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Baked Beets",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Baked Tilapia With Mushrooms",
+    "level": 20,
+    "ingredients": [
+      {
+        "name": "Tilapia Fillet",
+        "qty": 1
+      },
+      {
+        "name": "Mycena Mushroom",
+        "qty": 3
+      },
+      {
+        "name": "Onion",
+        "qty": 3
+      },
+      {
+        "name": "Flour",
+        "qty": 2
+      }
+    ],
+    "results": [
+      {
+        "name": "Baked Tilapia With Mushrooms",
+        "qty": 1
+      }
+    ],
+    "source": "Quest: Angling: Frozen... For Now"
+  },
+  {
+    "name": "Basic Beetle Skewer",
+    "level": 20,
+    "ingredients": [
+      {
+        "name": "Beetle",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Basic Beetle Skewer",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Basic Beetle Skewer"
+  },
+  {
+    "name": "Bland Mutton Vindaloo",
+    "level": 20,
+    "ingredients": [
+      {
+        "name": "Mutton",
+        "qty": 1
+      },
+      {
+        "name": "Potato",
+        "qty": 1
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      },
+      {
+        "name": "Basic Vinegar",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Bland Mutton Vindaloo",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Durstin Tallow"
+  },
+  {
+    "name": "Breaded Perch with Onions",
+    "level": 20,
+    "ingredients": [
+      {
+        "name": "Perch Fillet",
+        "qty": 2
+      },
+      {
+        "name": "Onion",
+        "qty": 2
+      },
+      {
+        "name": "Flour",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Breaded Perch with Onions",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Cranberry-Turkey Sandwich",
+    "level": 20,
+    "ingredients": [
+      {
+        "name": "Raw Turkey",
+        "qty": 1
+      },
+      {
+        "name": "Cranberries",
+        "qty": 1
+      },
+      {
+        "name": "Flatbread",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Cranberry-Turkey Sandwich",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Cranberry-Turkey Sandwich"
+  },
+  {
+    "name": "Fish And Chips",
+    "level": 20,
+    "ingredients": [
+      {
+        "name": "Potato",
+        "qty": 4
+      },
+      {
+        "name": "Basic Vinegar",
+        "qty": 2
+      },
+      {
+        "name": "Flour",
+        "qty": 3
+      },
+      {
+        "name": "Medium Freshwater Fish Fillet",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Fish And Chips",
+        "qty": 1
+      }
+    ],
+    "source": "Leveling: Angling"
+  },
+  {
+    "name": "Fruit Cocktail",
+    "level": 20,
+    "ingredients": [
+      {
+        "name": "Red Apple",
+        "qty": 1
+      },
+      {
+        "name": "Grapes",
+        "qty": 1
+      },
+      {
+        "name": "Large Strawberry",
+        "qty": 1
+      },
+      {
+        "name": "Orange",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 3
+      }
+    ],
+    "results": [
+      {
+        "name": "Fruit Cocktail",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Lungfish Roll",
+    "level": 20,
+    "ingredients": [
+      {
+        "name": "Lungfish Fillet",
+        "qty": 1
+      },
+      {
+        "name": "Cabbage",
+        "qty": 1
+      },
+      {
+        "name": "Field Mushroom",
+        "qty": 1
+      },
+      {
+        "name": "Flatbread",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Lungfish Roll",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Lungfish Roll"
+  },
+  {
+    "name": "Orange Juice",
+    "level": 20,
+    "ingredients": [
+      {
+        "name": "Orange",
+        "qty": 3
+      },
+      {
+        "name": "Sugar",
+        "qty": 2
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Orange Juice",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Hiral"
+  },
+  {
+    "name": "Peasant's Pie",
+    "level": 20,
+    "ingredients": [
+      {
+        "name": "Potato",
+        "qty": 2
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      },
+      {
+        "name": "Cheap Meat",
+        "qty": 1
+      },
+      {
+        "name": "Cheap Meat",
+        "qty": 1
+      },
+      {
+        "name": "Cheap Meat",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Peasant's Pie",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Peasant's Pie"
+  },
+  {
+    "name": "Mokapok Stew",
+    "level": 21,
+    "ingredients": [
+      {
+        "name": "Lungfish Fillet",
+        "qty": 1
+      },
+      {
+        "name": "Crab Meat",
+        "qty": 1
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      },
+      {
+        "name": "Watercress",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Mokapok Stew",
+        "qty": 3
+      }
+    ],
+    "source": "Item: Cooking: Mokapok Stew"
+  },
+  {
+    "name": "Simple Cranberry Tart",
+    "level": 23,
+    "ingredients": [
+      {
+        "name": "Cranberries",
+        "qty": 2
+      },
+      {
+        "name": "Red Apple",
+        "qty": 2
+      },
+      {
+        "name": "Flour",
+        "qty": 2
+      },
+      {
+        "name": "Butter",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Simple Cranberry Tart",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Simple Cranberry Tart"
+  },
+  {
+    "name": "Durstin's Minty Lamb Chops",
+    "level": 24,
+    "ingredients": [
+      {
+        "name": "Mutton",
+        "qty": 2
+      },
+      {
+        "name": "Mint",
+        "qty": 1
+      },
+      {
+        "name": "Olive Oil",
+        "qty": 1
+      },
+      {
+        "name": "Peppercorns",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 2
+      }
+    ],
+    "results": [
+      {
+        "name": "Durstin's Minty Lamb Chops",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Durstin Tallow"
+  },
+  {
+    "name": "Baked Flounder",
+    "level": 25,
+    "ingredients": [
+      {
+        "name": "Flounder Fillet",
+        "qty": 2
+      },
+      {
+        "name": "Butter",
+        "qty": 1
+      },
+      {
+        "name": "Cedar Wood Chips",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Baked Flounder",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Squidlips"
+  },
+  {
+    "name": "Bitter-Mint Tea",
+    "level": 25,
+    "ingredients": [
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Decent Tannin Powder",
+        "qty": 1
+      },
+      {
+        "name": "Mint",
+        "qty": 2
+      },
+      {
+        "name": "Sugar",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Bitter-Mint Tea",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Hang Out: Sirine"
+  },
+  {
+    "name": "Black Soup",
+    "level": 25,
+    "ingredients": [
+      {
+        "name": "Potato",
+        "qty": 1
+      },
+      {
+        "name": "Squash",
+        "qty": 1
+      },
+      {
+        "name": "Insect Meat",
+        "qty": 1
+      },
+      {
+        "name": "Muntok Peppercorns",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Black Soup",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Black Soup"
+  },
+  {
+    "name": "Fishy Pot Pie",
+    "level": 25,
+    "ingredients": [
+      {
+        "name": "Potato",
+        "qty": 1
+      },
+      {
+        "name": "Carrot",
+        "qty": 1
+      },
+      {
+        "name": "Beet",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 2
+      },
+      {
+        "name": "Medium Saltwater Fish Fillet",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Fishy Pot Pie",
+        "qty": 1
+      }
+    ],
+    "source": "Leveling: Angling"
+  },
+  {
+    "name": "Glazed Beets",
+    "level": 25,
+    "ingredients": [
+      {
+        "name": "Beet",
+        "qty": 2
+      },
+      {
+        "name": "Butter",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Glazed Beets",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Grilled Chicken",
+    "level": 25,
+    "ingredients": [
+      {
+        "name": "Raw Chicken",
+        "qty": 2
+      },
+      {
+        "name": "Oregano",
+        "qty": 1
+      },
+      {
+        "name": "Cedar Wood Chips",
+        "qty": 1
+      },
+      {
+        "name": "Carrot",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Grilled Chicken",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Grilled Shrimp Wrap",
+    "level": 25,
+    "ingredients": [
+      {
+        "name": "Cabbage",
+        "qty": 1
+      },
+      {
+        "name": "Cleaned Shrimp",
+        "qty": 2
+      },
+      {
+        "name": "Cedar Wood Chips",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Grilled Shrimp Wrap",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Squidlips"
+  },
+  {
+    "name": "Laura Neth's Famous Tart",
+    "level": 25,
+    "ingredients": [
+      {
+        "name": "Flour",
+        "qty": 4
+      },
+      {
+        "name": "Sugar",
+        "qty": 4
+      },
+      {
+        "name": "Cinnamon",
+        "qty": 2
+      },
+      {
+        "name": "Egg",
+        "qty": 2
+      },
+      {
+        "name": "Pumpkin",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Laura Neth's Famous Tart",
+        "qty": 3
+      }
+    ],
+    "source": "Item: Cooking: Laura Neth's Famous Tart"
+  },
+  {
+    "name": "Loaded Baked Potato",
+    "level": 25,
+    "ingredients": [
+      {
+        "name": "Potato",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      },
+      {
+        "name": "Butter",
+        "qty": 1
+      },
+      {
+        "name": "Mild Cheddar Cheese",
+        "qty": 1
+      },
+      {
+        "name": "Sour Cream",
+        "qty": 1
+      },
+      {
+        "name": "Bacon",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Loaded Baked Potato",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Loaded Baked Potato"
+  },
+  {
+    "name": "Molasses",
+    "level": 25,
+    "ingredients": [
+      {
+        "name": "Sugarcane",
+        "qty": 2
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 4
+      }
+    ],
+    "results": [
+      {
+        "name": "Molasses",
+        "qty": 2
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 4
+      },
+      {
+        "name": "Sugar",
+        "qty": 2
+      },
+      {
+        "name": "Sugar",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Hiral"
+  },
+  {
+    "name": "Orange Cat",
+    "level": 25,
+    "ingredients": [
+      {
+        "name": "Stringy Cat Meat",
+        "qty": 2
+      },
+      {
+        "name": "Orange",
+        "qty": 1
+      },
+      {
+        "name": "Peppercorns",
+        "qty": 1
+      },
+      {
+        "name": "Onion",
+        "qty": 2
+      },
+      {
+        "name": "Meat Tenderizer",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Orange Cat",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Nishika"
+  },
+  {
+    "name": "Orange Perch",
+    "level": 25,
+    "ingredients": [
+      {
+        "name": "Perch Fillet",
+        "qty": 2
+      },
+      {
+        "name": "Orange",
+        "qty": 2
+      },
+      {
+        "name": "Cedar Wood Chips",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Orange Perch",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Ranalon Salad",
+    "level": 25,
+    "ingredients": [
+      {
+        "name": "Watercress",
+        "qty": 2
+      },
+      {
+        "name": "Cabbage",
+        "qty": 1
+      },
+      {
+        "name": "Mint",
+        "qty": 1
+      },
+      {
+        "name": "Oregano",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Brine",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Ranalon Salad",
+        "qty": 5
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Ranalon Salad"
+  },
+  {
+    "name": "Venison Hash",
+    "level": 25,
+    "ingredients": [
+      {
+        "name": "Potato",
+        "qty": 2
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      },
+      {
+        "name": "Venison",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 2
+      }
+    ],
+    "results": [
+      {
+        "name": "Venison Hash",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Therese"
+  },
+  {
+    "name": "Weird Fruit Cocktail",
+    "level": 25,
+    "ingredients": [
+      {
+        "name": "Red Apple",
+        "qty": 1
+      },
+      {
+        "name": "Grapes",
+        "qty": 1
+      },
+      {
+        "name": "Orange",
+        "qty": 1
+      },
+      {
+        "name": "Guava",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 3
+      }
+    ],
+    "results": [
+      {
+        "name": "Weird Fruit Cocktail",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Tasty Cranberry Sauce",
+    "level": 26,
+    "ingredients": [
+      {
+        "name": "Cranberries",
+        "qty": 1
+      },
+      {
+        "name": "Orange",
+        "qty": 1
+      },
+      {
+        "name": "Cinnamon",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Tasty Cranberry Sauce",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Tasty Cranberry Sauce"
+  },
+  {
+    "name": "Pumpkin Hummus",
+    "level": 27,
+    "ingredients": [
+      {
+        "name": "Pumpkin",
+        "qty": 1
+      },
+      {
+        "name": "Cinnamon",
+        "qty": 2
+      },
+      {
+        "name": "Olive Oil",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Pumpkin Hummus",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Pumpkin Hummus"
+  },
+  {
+    "name": "Mutton and Eggs",
+    "level": 28,
+    "ingredients": [
+      {
+        "name": "Egg",
+        "qty": 2
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      },
+      {
+        "name": "Mutton",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Mutton and Eggs",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Julius Patton"
+  },
+  {
+    "name": "Basic Shark-Fin Soup",
+    "level": 30,
+    "ingredients": [
+      {
+        "name": "Shark Fin",
+        "qty": 1
+      },
+      {
+        "name": "Egg",
+        "qty": 1
+      },
+      {
+        "name": "Seaweed",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Basic Shark-Fin Soup",
+        "qty": 2
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Basic Shark-Fin Soup"
+  },
+  {
+    "name": "Casino Kabobs",
+    "level": 30,
+    "ingredients": [
+      {
+        "name": "Stringy Insect Meat",
+        "qty": 1
+      },
+      {
+        "name": "Stringy Dog Meat",
+        "qty": 1
+      },
+      {
+        "name": "Green Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Blusher Mushroom",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Casino Kabobs",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Mandibles"
+  },
+  {
+    "name": "Chicken and Broccoli",
+    "level": 30,
+    "ingredients": [
+      {
+        "name": "Raw Chicken",
+        "qty": 2
+      },
+      {
+        "name": "Broccoli",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      },
+      {
+        "name": "Oregano",
+        "qty": 1
+      },
+      {
+        "name": "Cedar Wood Chips",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Chicken and Broccoli",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Cranberry-Barbecue Steak",
+    "level": 30,
+    "ingredients": [
+      {
+        "name": "Steak",
+        "qty": 1
+      },
+      {
+        "name": "Cranberries",
+        "qty": 1
+      },
+      {
+        "name": "Oregano",
+        "qty": 1
+      },
+      {
+        "name": "Oak Wood Chips",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Cranberry-Barbecue Steak",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Cranberry-Barbecue Steak"
+  },
+  {
+    "name": "Eel Stir-Fry",
+    "level": 30,
+    "ingredients": [
+      {
+        "name": "Eel Fillet",
+        "qty": 2
+      },
+      {
+        "name": "Cabbage",
+        "qty": 1
+      },
+      {
+        "name": "Onion",
+        "qty": 2
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Eel Stir-Fry",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Eyeball Soup",
+    "level": 30,
+    "ingredients": [
+      {
+        "name": "Cat Eyeball",
+        "qty": 1
+      },
+      {
+        "name": "Dinosaur Eye",
+        "qty": 1
+      },
+      {
+        "name": "Cheap Meat",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Eyeball Soup",
+        "qty": 1
+      }
+    ],
+    "source": "Quest: Zhia Lian Event: Soup Prep"
+  },
+  {
+    "name": "Fried Banana",
+    "level": 30,
+    "ingredients": [
+      {
+        "name": "Banana",
+        "qty": 1
+      },
+      {
+        "name": "Butter",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 2
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Fried Banana",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Laura Neth"
+  },
+  {
+    "name": "Fruity Mushy",
+    "level": 30,
+    "ingredients": [
+      {
+        "name": "Orange",
+        "qty": 1
+      },
+      {
+        "name": "Banana",
+        "qty": 2
+      },
+      {
+        "name": "Guava",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Fruity Mushy",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Hiral"
+  },
+  {
+    "name": "Laura's Cheesy Beets",
+    "level": 30,
+    "ingredients": [
+      {
+        "name": "Beet",
+        "qty": 2
+      },
+      {
+        "name": "Mild Cheddar Cheese",
+        "qty": 1
+      },
+      {
+        "name": "Sharp Cheddar Cheese",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Laura's Cheesy Beets",
+        "qty": 2
+      }
+    ],
+    "source": "Hang Out: Laura Neth"
+  },
+  {
+    "name": "Pumpkin Smoothie",
+    "level": 30,
+    "ingredients": [
+      {
+        "name": "Pumpkin",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Milk",
+        "qty": 1
+      },
+      {
+        "name": "Cinnamon",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 2
+      }
+    ],
+    "results": [
+      {
+        "name": "Pumpkin Smoothie",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Pumpkin Smoothie Quest: Zhia Lian Event: Pumpkin Smoothie"
+  },
+  {
+    "name": "Rum-Glazed Shrimp",
+    "level": 30,
+    "ingredients": [
+      {
+        "name": "Cleaned Shrimp",
+        "qty": 4
+      },
+      {
+        "name": "Sugar",
+        "qty": 1
+      },
+      {
+        "name": "Drinkable Rum Barrel",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Rum-Glazed Shrimp",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Squidlips"
+  },
+  {
+    "name": "Squash Soup",
+    "level": 30,
+    "ingredients": [
+      {
+        "name": "Squash",
+        "qty": 1
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      },
+      {
+        "name": "Butter",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Squash Soup",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Stuffed Squash",
+    "level": 30,
+    "ingredients": [
+      {
+        "name": "Squash",
+        "qty": 1
+      },
+      {
+        "name": "Great Venison",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Stuffed Squash",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Ur-Bacon",
+    "level": 30,
+    "ingredients": [
+      {
+        "name": "Pork Shoulder",
+        "qty": 1
+      },
+      {
+        "name": "Cedar Wood Chips",
+        "qty": 2
+      },
+      {
+        "name": "Femur",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Ur-Bacon",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Ur-Bacon"
+  },
+  {
+    "name": "Recuperative Soup",
+    "level": 31,
+    "ingredients": [
+      {
+        "name": "Stringy Insect Meat",
+        "qty": 1
+      },
+      {
+        "name": "Raw Great Chicken",
+        "qty": 1
+      },
+      {
+        "name": "Broccoli",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Recuperative Soup",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Mandibles"
+  },
+  {
+    "name": "Butter-Fried Shrimp",
+    "level": 32,
+    "ingredients": [
+      {
+        "name": "Cleaned Shrimp",
+        "qty": 4
+      },
+      {
+        "name": "Butter",
+        "qty": 1
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Butter-Fried Shrimp",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Squidlips"
+  },
+  {
+    "name": "Candied Heart",
+    "level": 32,
+    "ingredients": [
+      {
+        "name": "Heart",
+        "qty": 1
+      },
+      {
+        "name": "Molasses",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 2
+      }
+    ],
+    "results": [
+      {
+        "name": "Candied Heart",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Candied Heart"
+  },
+  {
+    "name": "Crab Roll",
+    "level": 32,
+    "ingredients": [
+      {
+        "name": "Flatbread",
+        "qty": 2
+      },
+      {
+        "name": "Crab Meat",
+        "qty": 5
+      },
+      {
+        "name": "Lemon",
+        "qty": 1
+      },
+      {
+        "name": "Butter",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Crab Roll",
+        "qty": 2
+      }
+    ],
+    "source": "Hang Out: Fainor"
+  },
+  {
+    "name": "Cheesy Flounder",
+    "level": 33,
+    "ingredients": [
+      {
+        "name": "Flounder Fillet",
+        "qty": 2
+      },
+      {
+        "name": "Mild Cheddar Cheese",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Cheesy Flounder",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Squidlips"
+  },
+  {
+    "name": "Barbecued Mystery Meat",
+    "level": 34,
+    "ingredients": [
+      {
+        "name": "Stringy Dog Meat",
+        "qty": 1
+      },
+      {
+        "name": "Dog Meat",
+        "qty": 1
+      },
+      {
+        "name": "Molasses",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 1
+      },
+      {
+        "name": "Basic Vinegar",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Barbecued Mystery Meat",
+        "qty": 1
+      }
+    ],
+    "source": "Hang Out: Mandibles"
+  },
+  {
+    "name": "Simple Pumpkin Muffin",
+    "level": 34,
+    "ingredients": [
+      {
+        "name": "Pumpkin",
+        "qty": 1
+      },
+      {
+        "name": "Guava",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Milk",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Simple Pumpkin Muffin",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Simple Pumpkin Muffin"
+  },
+  {
+    "name": "Barley Bread",
+    "level": 35,
+    "ingredients": [
+      {
+        "name": "Barley",
+        "qty": 2
+      },
+      {
+        "name": "Egg",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Barley Bread",
+        "qty": 1
+      }
+    ],
+    "source": "Hang Out: Brianna Willer"
+  },
+  {
+    "name": "Chicken-Rabbit Rice",
+    "level": 35,
+    "ingredients": [
+      {
+        "name": "Raw Great Chicken",
+        "qty": 1
+      },
+      {
+        "name": "Great Rabbit Meat",
+        "qty": 1
+      },
+      {
+        "name": "Rahu Rice",
+        "qty": 1
+      },
+      {
+        "name": "Broccoli",
+        "qty": 1
+      },
+      {
+        "name": "Olive Oil",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Chicken-Rabbit Rice",
+        "qty": 3
+      }
+    ],
+    "source": "Training: Mandibles"
+  },
+  {
+    "name": "Cottage Pie",
+    "level": 35,
+    "ingredients": [
+      {
+        "name": "Steak",
+        "qty": 2
+      },
+      {
+        "name": "Potato",
+        "qty": 2
+      },
+      {
+        "name": "Onion",
+        "qty": 2
+      },
+      {
+        "name": "Flour",
+        "qty": 2
+      },
+      {
+        "name": "Butter",
+        "qty": 1
+      },
+      {
+        "name": "Mild Cheddar Cheese",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Cottage Pie",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Cottage Pie"
+  },
+  {
+    "name": "Fried Frog's Legs",
+    "level": 35,
+    "ingredients": [
+      {
+        "name": "Frog Legs",
+        "qty": 2
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      },
+      {
+        "name": "Vegetable Oil",
+        "qty": 2
+      }
+    ],
+    "results": [
+      {
+        "name": "Fried Frog's Legs",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Moku"
+  },
+  {
+    "name": "Fried Spider Leg",
+    "level": 35,
+    "ingredients": [
+      {
+        "name": "Giant Spider Leg",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 2
+      },
+      {
+        "name": "Oregano",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Fried Spider Leg",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Great Bacon",
+    "level": 35,
+    "ingredients": [
+      {
+        "name": "Great Pork Shoulder",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 2
+      }
+    ],
+    "results": [
+      {
+        "name": "Great Bacon",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Selaxi"
+  },
+  {
+    "name": "Guava Beet Muffin",
+    "level": 35,
+    "ingredients": [
+      {
+        "name": "Beet",
+        "qty": 2
+      },
+      {
+        "name": "Guava",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Guava Beet Muffin",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Guava Bowl",
+    "level": 35,
+    "ingredients": [
+      {
+        "name": "Guava",
+        "qty": 3
+      },
+      {
+        "name": "Grapes",
+        "qty": 1
+      },
+      {
+        "name": "Orange",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 2
+      }
+    ],
+    "results": [
+      {
+        "name": "Guava Bowl",
+        "qty": 1
+      }
+    ],
+    "source": "Quest: Guavas of the Land"
+  },
+  {
+    "name": "Mantis-Stuffed Mushroom",
+    "level": 35,
+    "ingredients": [
+      {
+        "name": "Giant Mantis Claw",
+        "qty": 2
+      },
+      {
+        "name": "Field Mushroom",
+        "qty": 1
+      },
+      {
+        "name": "Broccoli",
+        "qty": 1
+      },
+      {
+        "name": "Cedar Wood Chips",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Mantis-Stuffed Mushroom",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Mantis-Stuffed Mushroom"
+  },
+  {
+    "name": "Meat Candy",
+    "level": 35,
+    "ingredients": [
+      {
+        "name": "Raw Paralytic Chicken",
+        "qty": 1
+      },
+      {
+        "name": "Banana",
+        "qty": 1
+      },
+      {
+        "name": "Swampweed",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Meat Candy",
+        "qty": 1
+      }
+    ],
+    "source": "Quest: Zhia Lian Event: Show Me The Candy"
+  },
+  {
+    "name": "Mushroom Barley Soup",
+    "level": 35,
+    "ingredients": [
+      {
+        "name": "Barley",
+        "qty": 2
+      },
+      {
+        "name": "Carrot",
+        "qty": 2
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 2
+      },
+      {
+        "name": "Oregano",
+        "qty": 1
+      },
+      {
+        "name": "Blusher Mushroom Flakes",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Mushroom Barley Soup",
+        "qty": 2
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Laura Neth"
+  },
+  {
+    "name": "Pickled Pike",
+    "level": 35,
+    "ingredients": [
+      {
+        "name": "Pike Fillet",
+        "qty": 1
+      },
+      {
+        "name": "Peppercorns",
+        "qty": 1
+      },
+      {
+        "name": "Seaweed",
+        "qty": 3
+      },
+      {
+        "name": "Fancy Vinegar",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Pickled Pike",
+        "qty": 2
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Quest: Angling: The Scary Pike"
+  },
+  {
+    "name": "Pumpkin Soup",
+    "level": 35,
+    "ingredients": [
+      {
+        "name": "Sour Cream",
+        "qty": 1
+      },
+      {
+        "name": "Pumpkin",
+        "qty": 2
+      },
+      {
+        "name": "Onion",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 2
+      }
+    ],
+    "results": [
+      {
+        "name": "Pumpkin Soup",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Pumpkin Soup Quest: Zhia Lian Event: Pumpkin Soup"
+  },
+  {
+    "name": "Sugar-Laced Green Apple",
+    "level": 35,
+    "ingredients": [
+      {
+        "name": "Green Apple",
+        "qty": 3
+      },
+      {
+        "name": "Sugar",
+        "qty": 3
+      },
+      {
+        "name": "Vanilla",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Sugar-Laced Green Apple",
+        "qty": 3
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Sugar-Laced Green Apple"
+  },
+  {
+    "name": "Super Fishy Surprise",
+    "level": 35,
+    "ingredients": [
+      {
+        "name": "Eel Fillet",
+        "qty": 1
+      },
+      {
+        "name": "Grapefish Fillet",
+        "qty": 1
+      },
+      {
+        "name": "Clownfish Fillet",
+        "qty": 1
+      },
+      {
+        "name": "Potato",
+        "qty": 3
+      },
+      {
+        "name": "Salt",
+        "qty": 3
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Super Fishy Surprise",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      },
+      {
+        "name": "Bonus Fishy Surprise",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Wolfsbane Muffin",
+    "level": 35,
+    "ingredients": [
+      {
+        "name": "Wolfsbane",
+        "qty": 2
+      },
+      {
+        "name": "Guava",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Wolfsbane Muffin",
+        "qty": 2
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Laura Neth"
+  },
+  {
+    "name": "Barbecue Rabbit Chops",
+    "level": 36,
+    "ingredients": [
+      {
+        "name": "Great Rabbit Meat",
+        "qty": 1
+      },
+      {
+        "name": "Molasses",
+        "qty": 1
+      },
+      {
+        "name": "Fancy Vinegar",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 2
+      }
+    ],
+    "results": [
+      {
+        "name": "Barbecue Rabbit Chops",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Mandibles"
+  },
+  {
+    "name": "Casino Breakfast",
+    "level": 36,
+    "ingredients": [
+      {
+        "name": "Banana",
+        "qty": 2
+      },
+      {
+        "name": "Grapes",
+        "qty": 1
+      },
+      {
+        "name": "Flatbread",
+        "qty": 1
+      },
+      {
+        "name": "Sharp Cheddar Cheese",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Casino Breakfast",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Mandibles"
+  },
+  {
+    "name": "Diet Lunch",
+    "level": 37,
+    "ingredients": [
+      {
+        "name": "Cottage Cheese",
+        "qty": 1
+      },
+      {
+        "name": "Guava",
+        "qty": 1
+      },
+      {
+        "name": "Banana",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Diet Lunch",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Mandibles"
+  },
+  {
+    "name": "Cup o' Paralysis",
+    "level": 39,
+    "ingredients": [
+      {
+        "name": "Raw Paralytic Chicken",
+        "qty": 1
+      },
+      {
+        "name": "Cactus Juice",
+        "qty": 1
+      },
+      {
+        "name": "Guava",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Cup o' Paralysis",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Mandibles"
+  },
+  {
+    "name": "Almond-Crusted Walleye",
+    "level": 40,
+    "ingredients": [
+      {
+        "name": "Walleye Fillet",
+        "qty": 1
+      },
+      {
+        "name": "Almonds",
+        "qty": 3
+      },
+      {
+        "name": "Onion",
+        "qty": 3
+      }
+    ],
+    "results": [
+      {
+        "name": "Almond-Crusted Walleye",
+        "qty": 2
+      }
+    ],
+    "source": "Quest: Angling: Baby Slugs Need Help!"
+  },
+  {
+    "name": "BBQ Ribs",
+    "level": 40,
+    "ingredients": [
+      {
+        "name": "Great Pork Shoulder",
+        "qty": 1
+      },
+      {
+        "name": "Cedar Wood Chips",
+        "qty": 1
+      },
+      {
+        "name": "Oregano",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "BBQ Ribs",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Baked Pig Snout",
+    "level": 40,
+    "ingredients": [
+      {
+        "name": "Pig Snout",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Milk",
+        "qty": 1
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      },
+      {
+        "name": "Squash",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Baked Pig Snout",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Baked Pig Snout"
+  },
+  {
+    "name": "Basic Ham Omelet",
+    "level": 40,
+    "ingredients": [
+      {
+        "name": "Egg",
+        "qty": 2
+      },
+      {
+        "name": "Great Pork Shoulder",
+        "qty": 1
+      },
+      {
+        "name": "Sharp Cheddar Cheese",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Basic Ham Omelet",
+        "qty": 2
+      }
+    ],
+    "source": "Hang Out: Furlak"
+  },
+  {
+    "name": "Broccoli Florets",
+    "level": 40,
+    "ingredients": [
+      {
+        "name": "Broccoli",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      },
+      {
+        "name": "Olive Oil",
+        "qty": 1
+      },
+      {
+        "name": "Butter",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Broccoli Florets",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Deluxe Casino Kabobs",
+    "level": 40,
+    "ingredients": [
+      {
+        "name": "Insect Meat",
+        "qty": 1
+      },
+      {
+        "name": "Dog Meat",
+        "qty": 1
+      },
+      {
+        "name": "Green Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Milk Cap Mushroom",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Deluxe Casino Kabobs",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Mandibles"
+  },
+  {
+    "name": "Fish Sandwich",
+    "level": 40,
+    "ingredients": [
+      {
+        "name": "Flatbread",
+        "qty": 2
+      },
+      {
+        "name": "Seaweed",
+        "qty": 1
+      },
+      {
+        "name": "Blusher Mushroom",
+        "qty": 3
+      },
+      {
+        "name": "Large Freshwater Fish Fillet",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Fish Sandwich",
+        "qty": 1
+      }
+    ],
+    "source": "Leveling: Angling"
+  },
+  {
+    "name": "Lemon-Glazed Chicken",
+    "level": 40,
+    "ingredients": [
+      {
+        "name": "Raw Chicken",
+        "qty": 1
+      },
+      {
+        "name": "Lemon",
+        "qty": 2
+      },
+      {
+        "name": "Sugar",
+        "qty": 1
+      },
+      {
+        "name": "Guava",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Lemon-Glazed Chicken",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Lemonade",
+    "level": 40,
+    "ingredients": [
+      {
+        "name": "Lemon",
+        "qty": 3
+      },
+      {
+        "name": "Sugar",
+        "qty": 3
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Lemonade",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Hiral"
+  },
+  {
+    "name": "Maple-Smoked Shark",
+    "level": 40,
+    "ingredients": [
+      {
+        "name": "Shark Fillet",
+        "qty": 1
+      },
+      {
+        "name": "Maple Wood Chips",
+        "qty": 2
+      },
+      {
+        "name": "Muntok Peppercorns",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Maple-Smoked Shark",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Nishika's Travel Snack",
+    "level": 40,
+    "ingredients": [
+      {
+        "name": "Cat Meat",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 3
+      },
+      {
+        "name": "Red Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Meat Tenderizer",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Nishika's Travel Snack",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Nishika"
+  },
+  {
+    "name": "Sweet and Numb Chicken",
+    "level": 40,
+    "ingredients": [
+      {
+        "name": "Raw Paralytic Chicken",
+        "qty": 1
+      },
+      {
+        "name": "Molasses",
+        "qty": 1
+      },
+      {
+        "name": "Broccoli",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Sweet and Numb Chicken",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Mandibles"
+  },
+  {
+    "name": "Tasty Gingerbread Human",
+    "level": 40,
+    "ingredients": [
+      {
+        "name": "Egg",
+        "qty": 2
+      },
+      {
+        "name": "Flour",
+        "qty": 3
+      },
+      {
+        "name": "Sugar",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      },
+      {
+        "name": "Molasses",
+        "qty": 1
+      },
+      {
+        "name": "Cinnamon",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Tasty Gingerbread Human",
+        "qty": 2
+      }
+    ],
+    "source": "Quest: Event: Gingerbread Humans"
+  },
+  {
+    "name": "Uraknocha Noodles",
+    "level": 40,
+    "ingredients": [
+      {
+        "name": "Orcish Flour",
+        "qty": 2
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      },
+      {
+        "name": "Dill",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Uraknocha Noodles",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Uraknocha Noodles"
+  },
+  {
+    "name": "Vegan Nut Barley Bread",
+    "level": 40,
+    "ingredients": [
+      {
+        "name": "Barley",
+        "qty": 2
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 2
+      },
+      {
+        "name": "Almonds",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Vegan Nut Barley Bread",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Laura Neth"
+  },
+  {
+    "name": "Winter Salad",
+    "level": 40,
+    "ingredients": [
+      {
+        "name": "Tundra Lichen",
+        "qty": 1
+      },
+      {
+        "name": "Broccoli",
+        "qty": 1
+      },
+      {
+        "name": "Mint",
+        "qty": 1
+      },
+      {
+        "name": "Fancy Vinegar",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Winter Salad",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Mandibles"
+  },
+  {
+    "name": "Yeti Stick",
+    "level": 40,
+    "ingredients": [
+      {
+        "name": "Spider Leg",
+        "qty": 1
+      },
+      {
+        "name": "Great Venison",
+        "qty": 1
+      },
+      {
+        "name": "Blusher Mushroom",
+        "qty": 1
+      },
+      {
+        "name": "Cheap Meat",
+        "qty": 1
+      },
+      {
+        "name": "Cheap Meat",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Yeti Stick",
+        "qty": 1
+      }
+    ],
+    "source": "Gift: Glowing Sphere"
+  },
+  {
+    "name": "Creamy Squash Casserole",
+    "level": 41,
+    "ingredients": [
+      {
+        "name": "Squash",
+        "qty": 2
+      },
+      {
+        "name": "Sour Cream",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      },
+      {
+        "name": "Broccoli",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Creamy Squash Casserole",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Mandibles"
+  },
+  {
+    "name": "Mandibles' Perfect Lunch",
+    "level": 41,
+    "ingredients": [
+      {
+        "name": "Raw Paralytic Chicken",
+        "qty": 1
+      },
+      {
+        "name": "Dog Meat",
+        "qty": 1
+      },
+      {
+        "name": "Sour Cream",
+        "qty": 1
+      },
+      {
+        "name": "Broccoli",
+        "qty": 2
+      }
+    ],
+    "results": [
+      {
+        "name": "Mandibles' Perfect Lunch",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Mandibles"
+  },
+  {
+    "name": "Broccoli Squash Bake",
+    "level": 42,
+    "ingredients": [
+      {
+        "name": "Squash",
+        "qty": 2
+      },
+      {
+        "name": "Broccoli",
+        "qty": 2
+      },
+      {
+        "name": "Sharp Cheddar Cheese",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Broccoli Squash Bake",
+        "qty": 3
+      }
+    ],
+    "source": "Training: Mandibles"
+  },
+  {
+    "name": "Kraken Calamari",
+    "level": 42,
+    "ingredients": [
+      {
+        "name": "Kraken Tendril",
+        "qty": 1
+      },
+      {
+        "name": "Lemon",
+        "qty": 1
+      },
+      {
+        "name": "Peppercorns",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 2
+      }
+    ],
+    "results": [
+      {
+        "name": "Kraken Calamari",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Kraken Calamari"
+  },
+  {
+    "name": "Maggot Soup",
+    "level": 42,
+    "ingredients": [
+      {
+        "name": "Maggoty Ham",
+        "qty": 1
+      },
+      {
+        "name": "Carrot",
+        "qty": 1
+      },
+      {
+        "name": "Muntok Peppercorns",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Maggot Soup",
+        "qty": 1
+      }
+    ],
+    "source": "Quest: Zhia Lian Event: More Soup Prep"
+  },
+  {
+    "name": "All-Flavor Chicken",
+    "level": 43,
+    "ingredients": [
+      {
+        "name": "Raw Great Chicken",
+        "qty": 2
+      },
+      {
+        "name": "Raw Paralytic Chicken",
+        "qty": 1
+      },
+      {
+        "name": "Sour Cream",
+        "qty": 1
+      },
+      {
+        "name": "Peppercorns",
+        "qty": 1
+      },
+      {
+        "name": "Banana",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "All-Flavor Chicken",
+        "qty": 3
+      }
+    ],
+    "source": "Training: Mandibles"
+  },
+  {
+    "name": "Barbecue Chicken",
+    "level": 44,
+    "ingredients": [
+      {
+        "name": "Raw Great Chicken",
+        "qty": 1
+      },
+      {
+        "name": "Molasses",
+        "qty": 1
+      },
+      {
+        "name": "Muntok Peppercorns",
+        "qty": 1
+      },
+      {
+        "name": "Fancy Vinegar",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Barbecue Chicken",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Mandibles"
+  },
+  {
+    "name": "Lemon-Baked Flounder",
+    "level": 44,
+    "ingredients": [
+      {
+        "name": "Flounder Fillet",
+        "qty": 1
+      },
+      {
+        "name": "Lemon",
+        "qty": 1
+      },
+      {
+        "name": "Butter",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Lemon-Baked Flounder",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Squidlips"
+  },
+  {
+    "name": "Perfectly Baked Turkey",
+    "level": 44,
+    "ingredients": [
+      {
+        "name": "Raw Turkey",
+        "qty": 1
+      },
+      {
+        "name": "Cedar Wood Chips",
+        "qty": 1
+      },
+      {
+        "name": "Peppercorns",
+        "qty": 1
+      },
+      {
+        "name": "Oregano",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Perfectly Baked Turkey",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Perfectly Baked Turkey"
+  },
+  {
+    "name": "Banana Bread",
+    "level": 45,
+    "ingredients": [
+      {
+        "name": "Banana",
+        "qty": 3
+      },
+      {
+        "name": "Flour",
+        "qty": 3
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Banana Bread",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Banana-Almond Pancakes",
+    "level": 45,
+    "ingredients": [
+      {
+        "name": "Banana",
+        "qty": 2
+      },
+      {
+        "name": "Almonds",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 2
+      },
+      {
+        "name": "Bottle of Milk",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Banana-Almond Pancakes",
+        "qty": 2
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Mandibles"
+  },
+  {
+    "name": "Beef and Broccoli",
+    "level": 45,
+    "ingredients": [
+      {
+        "name": "Great Steak",
+        "qty": 1
+      },
+      {
+        "name": "Broccoli",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Beef and Broccoli",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Beets 'n Meats",
+    "level": 45,
+    "ingredients": [
+      {
+        "name": "Beet",
+        "qty": 2
+      },
+      {
+        "name": "Great Venison",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 2
+      },
+      {
+        "name": "Cheap Meat",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Beets 'n Meats",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Laura Neth"
+  },
+  {
+    "name": "Cheesy Veggie Delight",
+    "level": 45,
+    "ingredients": [
+      {
+        "name": "Broccoli",
+        "qty": 1
+      },
+      {
+        "name": "Carrot",
+        "qty": 1
+      },
+      {
+        "name": "Mild Cheddar Cheese",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Cheesy Veggie Delight",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Laura Neth"
+  },
+  {
+    "name": "Honey-Glazed Mahi Mahi",
+    "level": 45,
+    "ingredients": [
+      {
+        "name": "Mahi Mahi Fillet",
+        "qty": 1
+      },
+      {
+        "name": "Orange",
+        "qty": 1
+      },
+      {
+        "name": "Cinnamon",
+        "qty": 1
+      },
+      {
+        "name": "Honey",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Honey-Glazed Mahi Mahi",
+        "qty": 1
+      }
+    ],
+    "source": "Quest: Angling: The Overgrown Clownfish"
+  },
+  {
+    "name": "Laura's Cheese Biscuits",
+    "level": 45,
+    "ingredients": [
+      {
+        "name": "Flour",
+        "qty": 6
+      },
+      {
+        "name": "Salt",
+        "qty": 5
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 2
+      },
+      {
+        "name": "Mild Cheddar Cheese",
+        "qty": 1
+      },
+      {
+        "name": "Sharp Cheddar Cheese",
+        "qty": 1
+      },
+      {
+        "name": "Butter",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Laura's Cheese Biscuits",
+        "qty": 3
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Laura Neth"
+  },
+  {
+    "name": "Lemon Pepper Flounder",
+    "level": 45,
+    "ingredients": [
+      {
+        "name": "Flounder Fillet",
+        "qty": 1
+      },
+      {
+        "name": "Lemon",
+        "qty": 1
+      },
+      {
+        "name": "Muntok Peppercorns",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Lemon Pepper Flounder",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Squidlips"
+  },
+  {
+    "name": "Pumpkin Pancakes",
+    "level": 45,
+    "ingredients": [
+      {
+        "name": "Pumpkin",
+        "qty": 1
+      },
+      {
+        "name": "Cinnamon",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 3
+      },
+      {
+        "name": "Bottle of Milk",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Pumpkin Pancakes",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Pumpkin Pancakes"
+  },
+  {
+    "name": "Shepherd's Pie",
+    "level": 45,
+    "ingredients": [
+      {
+        "name": "Great Mutton",
+        "qty": 1
+      },
+      {
+        "name": "Potato",
+        "qty": 1
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      },
+      {
+        "name": "Carrot",
+        "qty": 1
+      },
+      {
+        "name": "Peppercorns",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Shepherd's Pie",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Shepherd's Pie"
+  },
+  {
+    "name": "Tagenite Stack",
+    "level": 45,
+    "ingredients": [
+      {
+        "name": "Flour",
+        "qty": 5
+      },
+      {
+        "name": "Honey",
+        "qty": 1
+      },
+      {
+        "name": "Almonds",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Tagenite Stack",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Tagenite Stack"
+  },
+  {
+    "name": "Turkey Pot Pie",
+    "level": 45,
+    "ingredients": [
+      {
+        "name": "Raw Turkey",
+        "qty": 2
+      },
+      {
+        "name": "Potato",
+        "qty": 2
+      },
+      {
+        "name": "Carrot",
+        "qty": 2
+      },
+      {
+        "name": "Flour",
+        "qty": 2
+      },
+      {
+        "name": "Butter",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Turkey Pot Pie",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Turkey Pot Pie"
+  },
+  {
+    "name": "Casino Stir-Fry",
+    "level": 46,
+    "ingredients": [
+      {
+        "name": "Dog Meat",
+        "qty": 1
+      },
+      {
+        "name": "Broccoli",
+        "qty": 1
+      },
+      {
+        "name": "Red Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Fancy Vinegar",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Casino Stir-Fry",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Mandibles"
+  },
+  {
+    "name": "Basic Fried Tofu Cubes",
+    "level": 50,
+    "ingredients": [
+      {
+        "name": "Tofu",
+        "qty": 1
+      },
+      {
+        "name": "Peppercorns",
+        "qty": 1
+      },
+      {
+        "name": "Carrot",
+        "qty": 2
+      },
+      {
+        "name": "Olive Oil",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Basic Fried Tofu Cubes",
+        "qty": 3
+      }
+    ],
+    "source": "Item: Cooking: Basic Fried Tofu Cubes Quest: Harvest Event: Rennet for Braigon"
+  },
+  {
+    "name": "Basic Pumpkin Pie",
+    "level": 50,
+    "ingredients": [
+      {
+        "name": "Pumpkin",
+        "qty": 2
+      },
+      {
+        "name": "Flour",
+        "qty": 5
+      },
+      {
+        "name": "Cinnamon",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 4
+      },
+      {
+        "name": "Bottle of Milk",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Basic Pumpkin Pie",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Basic Pumpkin Pie"
+  },
+  {
+    "name": "Bone Soup",
+    "level": 50,
+    "ingredients": [
+      {
+        "name": "Arm Bones",
+        "qty": 1
+      },
+      {
+        "name": "Femur",
+        "qty": 1
+      },
+      {
+        "name": "Great Venison",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Bone Soup",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Bone Soup"
+  },
+  {
+    "name": "Candied Lemon",
+    "level": 50,
+    "ingredients": [
+      {
+        "name": "Lemon",
+        "qty": 2
+      },
+      {
+        "name": "Honey",
+        "qty": 1
+      },
+      {
+        "name": "Cinnamon",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Candied Lemon",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Chicken Casserole",
+    "level": 50,
+    "ingredients": [
+      {
+        "name": "Raw Chicken",
+        "qty": 1
+      },
+      {
+        "name": "Carrot",
+        "qty": 2
+      },
+      {
+        "name": "Onion",
+        "qty": 2
+      },
+      {
+        "name": "Potato",
+        "qty": 1
+      },
+      {
+        "name": "Squash",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Chicken Casserole",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Deluxe Beetle Skewer",
+    "level": 50,
+    "ingredients": [
+      {
+        "name": "Beetle",
+        "qty": 2
+      },
+      {
+        "name": "Zombified Hand",
+        "qty": 1
+      },
+      {
+        "name": "Nightmare Flesh",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Deluxe Beetle Skewer",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Deluxe Beetle Skewer"
+  },
+  {
+    "name": "Fish Tacos",
+    "level": 50,
+    "ingredients": [
+      {
+        "name": "Sour Cream",
+        "qty": 1
+      },
+      {
+        "name": "Red Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Green Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Rahu Rice",
+        "qty": 1
+      },
+      {
+        "name": "Large Saltwater Fish Fillet",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Fish Tacos",
+        "qty": 1
+      }
+    ],
+    "source": "Leveling: Angling"
+  },
+  {
+    "name": "Furpot",
+    "level": 50,
+    "ingredients": [
+      {
+        "name": "Matted Hair",
+        "qty": 1
+      },
+      {
+        "name": "Great Mutton",
+        "qty": 1
+      },
+      {
+        "name": "Muntok Peppercorns",
+        "qty": 1
+      },
+      {
+        "name": "Carrot",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Milk",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Furpot",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Gift: Glowing Sphere"
+  },
+  {
+    "name": "Hiral's Citrus Blend",
+    "level": 50,
+    "ingredients": [
+      {
+        "name": "Orange Juice",
+        "qty": 1
+      },
+      {
+        "name": "Banana",
+        "qty": 1
+      },
+      {
+        "name": "Lemon",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Hiral's Citrus Blend",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Hiral"
+  },
+  {
+    "name": "Maple Carrots",
+    "level": 50,
+    "ingredients": [
+      {
+        "name": "Carrot",
+        "qty": 2
+      },
+      {
+        "name": "Sweet Butter",
+        "qty": 1
+      },
+      {
+        "name": "Maple Wood Chips",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Maple Carrots",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Orcish Onion Soup",
+    "level": 50,
+    "ingredients": [
+      {
+        "name": "Onion",
+        "qty": 1
+      },
+      {
+        "name": "Red Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Sour Cream",
+        "qty": 1
+      },
+      {
+        "name": "Muntok Peppercorns",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Orcish Onion Soup",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Orcish Onion Soup"
+  },
+  {
+    "name": "Shark and Crab Kebabs",
+    "level": 50,
+    "ingredients": [
+      {
+        "name": "Shark Fillet",
+        "qty": 3
+      },
+      {
+        "name": "Crab Meat",
+        "qty": 3
+      },
+      {
+        "name": "Squash",
+        "qty": 3
+      },
+      {
+        "name": "Carrot",
+        "qty": 3
+      }
+    ],
+    "results": [
+      {
+        "name": "Shark and Crab Kebabs",
+        "qty": 3
+      }
+    ],
+    "source": "Training: Fainor"
+  },
+  {
+    "name": "Simple Autumn Gorp",
+    "level": 50,
+    "ingredients": [
+      {
+        "name": "Pumpkin",
+        "qty": 1
+      },
+      {
+        "name": "Almonds",
+        "qty": 1
+      },
+      {
+        "name": "Cranberries",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Simple Autumn Gorp",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Simple Autumn Gorp"
+  },
+  {
+    "name": "Smoked Smallmouth Bass",
+    "level": 50,
+    "ingredients": [
+      {
+        "name": "Smallmouth Bass Fillet",
+        "qty": 1
+      },
+      {
+        "name": "Cinnamon",
+        "qty": 2
+      },
+      {
+        "name": "Cedar Wood Chips",
+        "qty": 3
+      },
+      {
+        "name": "Olive Oil",
+        "qty": 2
+      }
+    ],
+    "results": [
+      {
+        "name": "Smoked Smallmouth Bass",
+        "qty": 2
+      }
+    ],
+    "source": "Quest: Angling: Ghost Bass"
+  },
+  {
+    "name": "Desert Tea",
+    "level": 51,
+    "ingredients": [
+      {
+        "name": "Cactus Juice",
+        "qty": 1
+      },
+      {
+        "name": "Quality Tannin Powder",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 2
+      },
+      {
+        "name": "Muntok Peppercorns",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Desert Tea",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Desert Tea"
+  },
+  {
+    "name": "Mountain Mutton",
+    "level": 51,
+    "ingredients": [
+      {
+        "name": "Great Mutton",
+        "qty": 2
+      },
+      {
+        "name": "Green Pepper",
+        "qty": 2
+      },
+      {
+        "name": "Carrot",
+        "qty": 1
+      },
+      {
+        "name": "Urda Cheese",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Mountain Mutton",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Selaxi"
+  },
+  {
+    "name": "Snakemeat Wraps",
+    "level": 51,
+    "ingredients": [
+      {
+        "name": "Swampweed",
+        "qty": 1
+      },
+      {
+        "name": "Raw Great Chicken",
+        "qty": 1
+      },
+      {
+        "name": "Red Pepper",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Snakemeat Wraps",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Bogaku"
+  },
+  {
+    "name": "Cinnamon Pumpkin Rolls",
+    "level": 52,
+    "ingredients": [
+      {
+        "name": "Pumpkin",
+        "qty": 1
+      },
+      {
+        "name": "Cinnamon",
+        "qty": 1
+      },
+      {
+        "name": "Banana",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Cinnamon Pumpkin Rolls",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Quest: Zhia Lian Event: Pumpkin Rolls"
+  },
+  {
+    "name": "Orcish Snack Plate",
+    "level": 52,
+    "ingredients": [
+      {
+        "name": "Flatbread",
+        "qty": 1
+      },
+      {
+        "name": "Cottage Cheese",
+        "qty": 1
+      },
+      {
+        "name": "Great Pork Shoulder",
+        "qty": 1
+      },
+      {
+        "name": "Honey",
+        "qty": 1
+      },
+      {
+        "name": "Almonds",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Orcish Snack Plate",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Orcish Snack Plate"
+  },
+  {
+    "name": "Shark Chew",
+    "level": 52,
+    "ingredients": [
+      {
+        "name": "Shark Fillet",
+        "qty": 1
+      },
+      {
+        "name": "Green Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Muntok Peppercorns",
+        "qty": 1
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Shark Chew",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Selaxi"
+  },
+  {
+    "name": "Goblin Pasties",
+    "level": 53,
+    "ingredients": [
+      {
+        "name": "Corn",
+        "qty": 1
+      },
+      {
+        "name": "Potato",
+        "qty": 1
+      },
+      {
+        "name": "Raw Great Chicken",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 2
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Goblin Pasties",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Bogaku"
+  },
+  {
+    "name": "Spicy Lemon Cat",
+    "level": 53,
+    "ingredients": [
+      {
+        "name": "Cat Meat",
+        "qty": 2
+      },
+      {
+        "name": "Lemon",
+        "qty": 1
+      },
+      {
+        "name": "Muntok Peppercorns",
+        "qty": 1
+      },
+      {
+        "name": "Red Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Meat Tenderizer",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Spicy Lemon Cat",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Nishika"
+  },
+  {
+    "name": "Stuffed Bell Pepper",
+    "level": 53,
+    "ingredients": [
+      {
+        "name": "Green Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Milk Cap Mushroom",
+        "qty": 2
+      },
+      {
+        "name": "Great Steak",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Stuffed Bell Pepper",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Selaxi"
+  },
+  {
+    "name": "Aromatic Chicken",
+    "level": 54,
+    "ingredients": [
+      {
+        "name": "Raw Chicken",
+        "qty": 1
+      },
+      {
+        "name": "Green Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Coral Mushroom",
+        "qty": 1
+      },
+      {
+        "name": "Carrot",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Aromatic Chicken",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Selaxi"
+  },
+  {
+    "name": "Amazing Cranberry Sauce",
+    "level": 55,
+    "ingredients": [
+      {
+        "name": "Cranberries",
+        "qty": 1
+      },
+      {
+        "name": "Juniper Berries",
+        "qty": 1
+      },
+      {
+        "name": "Almonds",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Amazing Cranberry Sauce",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Amazing Cranberry Sauce"
+  },
+  {
+    "name": "Bacon-Lover's Omelet",
+    "level": 55,
+    "ingredients": [
+      {
+        "name": "Egg",
+        "qty": 2
+      },
+      {
+        "name": "Great Bacon",
+        "qty": 2
+      },
+      {
+        "name": "Cantal Cheese",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Bacon-Lover's Omelet",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Bacon-Lover's Omelet"
+  },
+  {
+    "name": "Beachside Blend",
+    "level": 55,
+    "ingredients": [
+      {
+        "name": "Cactus Juice",
+        "qty": 1
+      },
+      {
+        "name": "Banana",
+        "qty": 2
+      },
+      {
+        "name": "Orange",
+        "qty": 1
+      },
+      {
+        "name": "Cinnamon",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Beachside Blend",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Selaxi"
+  },
+  {
+    "name": "Gobbledygook",
+    "level": 55,
+    "ingredients": [
+      {
+        "name": "Red Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Porcini Mushroom Flakes",
+        "qty": 1
+      },
+      {
+        "name": "Corn",
+        "qty": 1
+      },
+      {
+        "name": "Seaweed",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Gobbledygook",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Bogaku"
+  },
+  {
+    "name": "Orcish Eel",
+    "level": 55,
+    "ingredients": [
+      {
+        "name": "Eel Fillet",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      },
+      {
+        "name": "Cottage Cheese",
+        "qty": 1
+      },
+      {
+        "name": "Almonds",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Orcish Eel",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Orcish Eel"
+  },
+  {
+    "name": "Pumpkin Spice Tea",
+    "level": 55,
+    "ingredients": [
+      {
+        "name": "Pumpkin",
+        "qty": 1
+      },
+      {
+        "name": "Quality Tannin Powder",
+        "qty": 1
+      },
+      {
+        "name": "Honey",
+        "qty": 1
+      },
+      {
+        "name": "Cinnamon",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Pumpkin Spice Tea",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Pumpkin Spice Tea"
+  },
+  {
+    "name": "Ruktagh",
+    "level": 55,
+    "ingredients": [
+      {
+        "name": "Red Pepper",
+        "qty": 2
+      },
+      {
+        "name": "Corn",
+        "qty": 1
+      },
+      {
+        "name": "Dill",
+        "qty": 1
+      },
+      {
+        "name": "Potato",
+        "qty": 3
+      },
+      {
+        "name": "Bottle of Milk",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Ruktagh",
+        "qty": 2
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Bogaku"
+  },
+  {
+    "name": "Shroom Feast",
+    "level": 55,
+    "ingredients": [
+      {
+        "name": "Blusher Mushroom",
+        "qty": 1
+      },
+      {
+        "name": "Milk Cap Mushroom",
+        "qty": 1
+      },
+      {
+        "name": "Blood Mushroom",
+        "qty": 1
+      },
+      {
+        "name": "Green Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 2
+      }
+    ],
+    "results": [
+      {
+        "name": "Shroom Feast",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Shroom Feast"
+  },
+  {
+    "name": "Spicy Porcini Bites",
+    "level": 55,
+    "ingredients": [
+      {
+        "name": "Porcini Mushroom",
+        "qty": 4
+      },
+      {
+        "name": "Flour",
+        "qty": 4
+      },
+      {
+        "name": "Cantal Cheese",
+        "qty": 1
+      },
+      {
+        "name": "Red Pepper",
+        "qty": 2
+      },
+      {
+        "name": "Muntok Peppercorns",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Spicy Porcini Bites",
+        "qty": 4
+      }
+    ],
+    "source": "Hang Out: Hemmit Magmagrip"
+  },
+  {
+    "name": "Swamp Salad",
+    "level": 55,
+    "ingredients": [
+      {
+        "name": "Swampweed",
+        "qty": 2
+      },
+      {
+        "name": "Seaweed",
+        "qty": 2
+      },
+      {
+        "name": "Porcini Mushroom Flakes",
+        "qty": 1
+      },
+      {
+        "name": "Fancy Vinegar",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Swamp Salad",
+        "qty": 3
+      }
+    ],
+    "source": "Training: Bogaku"
+  },
+  {
+    "name": "Tofurkey Stir-Fry",
+    "level": 55,
+    "ingredients": [
+      {
+        "name": "Soft Tofu",
+        "qty": 1
+      },
+      {
+        "name": "Harvest Spices",
+        "qty": 1
+      },
+      {
+        "name": "Red Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Green Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Black Foot Morel",
+        "qty": 1
+      },
+      {
+        "name": "Olive Oil",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Tofurkey Stir-Fry",
+        "qty": 3
+      }
+    ],
+    "source": "Item: Cooking: Tofurkey Stir-Fry"
+  },
+  {
+    "name": "Spicy Cavefish",
+    "level": 56,
+    "ingredients": [
+      {
+        "name": "Cavefish Fillet",
+        "qty": 2
+      },
+      {
+        "name": "Red Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Lemon",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Spicy Cavefish",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Spicy Cavefish"
+  },
+  {
+    "name": "Vegetable Masterpiece",
+    "level": 56,
+    "ingredients": [
+      {
+        "name": "Green Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Carrot",
+        "qty": 1
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      },
+      {
+        "name": "Broccoli",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Vegetable Masterpiece",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Selaxi"
+  },
+  {
+    "name": "Basic Pepperpot",
+    "level": 57,
+    "ingredients": [
+      {
+        "name": "Green Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Squash",
+        "qty": 1
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 3
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Cheap Meat",
+        "qty": 1
+      },
+      {
+        "name": "Cheap Meat",
+        "qty": 1
+      },
+      {
+        "name": "Cheap Meat",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Basic Pepperpot",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Selaxi"
+  },
+  {
+    "name": "Cavefish Supper",
+    "level": 57,
+    "ingredients": [
+      {
+        "name": "Cavefish Fillet",
+        "qty": 2
+      },
+      {
+        "name": "Dill",
+        "qty": 1
+      },
+      {
+        "name": "Lemon",
+        "qty": 2
+      },
+      {
+        "name": "Vegetable Oil",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Cavefish Supper",
+        "qty": 2
+      }
+    ],
+    "source": "Quest: Fae Rhino Horns"
+  },
+  {
+    "name": "Disappointing Corn Surprise",
+    "level": 57,
+    "ingredients": [
+      {
+        "name": "Corn",
+        "qty": 1
+      },
+      {
+        "name": "Butter",
+        "qty": 1
+      },
+      {
+        "name": "Flatbread",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Disappointing Corn Surprise",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Mandibles"
+  },
+  {
+    "name": "Hydration Punch",
+    "level": 57,
+    "ingredients": [
+      {
+        "name": "Cactus Juice",
+        "qty": 1
+      },
+      {
+        "name": "Lemon",
+        "qty": 1
+      },
+      {
+        "name": "Red Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Manticore Tail Tip",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Hydration Punch",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Hydration Punch"
+  },
+  {
+    "name": "Spicy Chicken",
+    "level": 58,
+    "ingredients": [
+      {
+        "name": "Raw Chicken",
+        "qty": 1
+      },
+      {
+        "name": "Red Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Porcini Mushroom",
+        "qty": 1
+      },
+      {
+        "name": "Muntok Peppercorns",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Spicy Chicken",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Selaxi"
+  },
+  {
+    "name": "Pepper Venison",
+    "level": 59,
+    "ingredients": [
+      {
+        "name": "Great Venison",
+        "qty": 2
+      },
+      {
+        "name": "Red Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Butter",
+        "qty": 1
+      },
+      {
+        "name": "Muntok Peppercorns",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Pepper Venison",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Selaxi"
+  },
+  {
+    "name": "Basic Tofurkey",
+    "level": 60,
+    "ingredients": [
+      {
+        "name": "Tofu",
+        "qty": 1
+      },
+      {
+        "name": "Harvest Spices",
+        "qty": 1
+      },
+      {
+        "name": "Porcini Mushroom",
+        "qty": 1
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Basic Tofurkey",
+        "qty": 3
+      }
+    ],
+    "source": "Item: Cooking: Basic Tofurkey"
+  },
+  {
+    "name": "Beer-Battered Fish",
+    "level": 60,
+    "ingredients": [
+      {
+        "name": "Corn",
+        "qty": 1
+      },
+      {
+        "name": "Dill",
+        "qty": 1
+      },
+      {
+        "name": "Egg",
+        "qty": 2
+      },
+      {
+        "name": "Flour",
+        "qty": 2
+      },
+      {
+        "name": "Extra-Large Freshwater Fish Fillet",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Beer-Battered Fish",
+        "qty": 1
+      }
+    ],
+    "source": "Leveling: Angling"
+  },
+  {
+    "name": "Cavefish Sticks",
+    "level": 60,
+    "ingredients": [
+      {
+        "name": "Cavefish Fillet",
+        "qty": 2
+      },
+      {
+        "name": "Red Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Carrot",
+        "qty": 1
+      },
+      {
+        "name": "Seaweed",
+        "qty": 1
+      },
+      {
+        "name": "Cedar Wood Chips",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Cavefish Sticks",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Selaxi"
+  },
+  {
+    "name": "Chuma's Agave Secret",
+    "level": 60,
+    "ingredients": [
+      {
+        "name": "Cactus Juice",
+        "qty": 2
+      },
+      {
+        "name": "Red Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Milk",
+        "qty": 1
+      },
+      {
+        "name": "Banana",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Chuma's Agave Secret",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Chuma's Agave Secret"
+  },
+  {
+    "name": "Cranberry-Almond Pie",
+    "level": 60,
+    "ingredients": [
+      {
+        "name": "Cranberries",
+        "qty": 2
+      },
+      {
+        "name": "Almonds",
+        "qty": 2
+      },
+      {
+        "name": "Green Apple",
+        "qty": 2
+      },
+      {
+        "name": "Flour",
+        "qty": 2
+      },
+      {
+        "name": "Butter",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Cranberry-Almond Pie",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Cranberry-Almond Pie"
+  },
+  {
+    "name": "Fancy Pumpkin Pie",
+    "level": 60,
+    "ingredients": [
+      {
+        "name": "Pumpkin",
+        "qty": 2
+      },
+      {
+        "name": "Flour",
+        "qty": 5
+      },
+      {
+        "name": "Cinnamon",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 5
+      },
+      {
+        "name": "Sour Cream",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Fancy Pumpkin Pie",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Fancy Pumpkin Pie"
+  },
+  {
+    "name": "Ratkin Surf 'n Turf",
+    "level": 60,
+    "ingredients": [
+      {
+        "name": "Catfish Fillet",
+        "qty": 2
+      },
+      {
+        "name": "Snail",
+        "qty": 2
+      },
+      {
+        "name": "Raw Oyster",
+        "qty": 2
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Ratkin Surf 'n Turf",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Ratkin Surf 'n Turf"
+  },
+  {
+    "name": "Sour Pumpkin Soup",
+    "level": 60,
+    "ingredients": [
+      {
+        "name": "Pumpkin",
+        "qty": 1
+      },
+      {
+        "name": "Swamp Gourd",
+        "qty": 1
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      },
+      {
+        "name": "Toxic Frog Skin",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Sour Pumpkin Soup",
+        "qty": 2
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Sour Pumpkin Soup"
+  },
+  {
+    "name": "Sweet-Roasted Pumpkin",
+    "level": 60,
+    "ingredients": [
+      {
+        "name": "Honey",
+        "qty": 1
+      },
+      {
+        "name": "Pumpkin",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Sweet-Roasted Pumpkin",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Sweet-Roasted Pumpkin"
+  },
+  {
+    "name": "Crelpin's Fried Dish",
+    "level": 61,
+    "ingredients": [
+      {
+        "name": "Beetle",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      },
+      {
+        "name": "Dwarfnut Oil",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Crelpin's Fried Dish",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Crelpin"
+  },
+  {
+    "name": "Tranana",
+    "level": 61,
+    "ingredients": [
+      {
+        "name": "Banana",
+        "qty": 3
+      },
+      {
+        "name": "Fairy Honey",
+        "qty": 1
+      },
+      {
+        "name": "Sprigganberries",
+        "qty": 2
+      }
+    ],
+    "results": [
+      {
+        "name": "Tranana",
+        "qty": 3
+      }
+    ],
+    "source": "Item: Cooking: Tranana"
+  },
+  {
+    "name": "Lemon Puffs",
+    "level": 62,
+    "ingredients": [
+      {
+        "name": "Lemon",
+        "qty": 2
+      },
+      {
+        "name": "Pear",
+        "qty": 1
+      },
+      {
+        "name": "Almonds",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Goat Milk",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Lemon Puffs",
+        "qty": 2
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Quest: Mortal Lemons"
+  },
+  {
+    "name": "Fancy Turkey Pie",
+    "level": 63,
+    "ingredients": [
+      {
+        "name": "Plump Raw Turkey",
+        "qty": 2
+      },
+      {
+        "name": "Potato",
+        "qty": 1
+      },
+      {
+        "name": "Carrot",
+        "qty": 1
+      },
+      {
+        "name": "Peas",
+        "qty": 2
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      },
+      {
+        "name": "Butter",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Fancy Turkey Pie",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Fancy Turkey Pie"
+  },
+  {
+    "name": "Onion Chicken",
+    "level": 63,
+    "ingredients": [
+      {
+        "name": "Raw Great Chicken",
+        "qty": 1
+      },
+      {
+        "name": "Dill",
+        "qty": 1
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Onion Chicken",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Floxie"
+  },
+  {
+    "name": "Spicy Fried Tofu Cubes",
+    "level": 63,
+    "ingredients": [
+      {
+        "name": "Firm Tofu",
+        "qty": 1
+      },
+      {
+        "name": "Muntok Peppercorns",
+        "qty": 1
+      },
+      {
+        "name": "Red Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Corn",
+        "qty": 2
+      },
+      {
+        "name": "Olive Oil",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Spicy Fried Tofu Cubes",
+        "qty": 3
+      }
+    ],
+    "source": "Item: Cooking: Spicy Fried Tofu Cubes"
+  },
+  {
+    "name": "Tart Applesauce",
+    "level": 63,
+    "ingredients": [
+      {
+        "name": "Green Apple",
+        "qty": 2
+      },
+      {
+        "name": "Cinnamon",
+        "qty": 1
+      },
+      {
+        "name": "Pixie Sugar",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Tart Applesauce",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Mandibles"
+  },
+  {
+    "name": "Trish",
+    "level": 63,
+    "ingredients": [
+      {
+        "name": "Green Vexfish Fillet",
+        "qty": 2
+      },
+      {
+        "name": "Dill",
+        "qty": 1
+      },
+      {
+        "name": "Oregano",
+        "qty": 1
+      },
+      {
+        "name": "Lemon",
+        "qty": 1
+      },
+      {
+        "name": "Rahu Rice",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Trish",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Trish"
+  },
+  {
+    "name": "Dinobites",
+    "level": 64,
+    "ingredients": [
+      {
+        "name": "Dinosaur Meat",
+        "qty": 1
+      },
+      {
+        "name": "Escarole",
+        "qty": 1
+      },
+      {
+        "name": "Rahu Rice",
+        "qty": 1
+      },
+      {
+        "name": "Olive Oil",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Dinobites",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Floxie"
+  },
+  {
+    "name": "Honey-Pumpkin Muffin",
+    "level": 64,
+    "ingredients": [
+      {
+        "name": "Pumpkin",
+        "qty": 1
+      },
+      {
+        "name": "Honey",
+        "qty": 1
+      },
+      {
+        "name": "Banana",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Milk",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Honey-Pumpkin Muffin",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Honey-Pumpkin Muffin"
+  },
+  {
+    "name": "Autumn Salad",
+    "level": 65,
+    "ingredients": [
+      {
+        "name": "Escarole",
+        "qty": 2
+      },
+      {
+        "name": "Dill",
+        "qty": 1
+      },
+      {
+        "name": "Cranberries",
+        "qty": 3
+      },
+      {
+        "name": "Almonds",
+        "qty": 3
+      },
+      {
+        "name": "Danablu Cheese",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Autumn Salad",
+        "qty": 3
+      }
+    ],
+    "source": "Item: Cooking: Autumn Salad"
+  },
+  {
+    "name": "Roasted Gourd Innards",
+    "level": 65,
+    "ingredients": [
+      {
+        "name": "Pumpkin",
+        "qty": 2
+      },
+      {
+        "name": "Swamp Gourd",
+        "qty": 2
+      },
+      {
+        "name": "Almonds",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Roasted Gourd Innards",
+        "qty": 3
+      }
+    ],
+    "source": "Item: Cooking: Roasted Gourd Innards"
+  },
+  {
+    "name": "Tofurkey Gravy",
+    "level": 65,
+    "ingredients": [
+      {
+        "name": "Soft Tofu",
+        "qty": 1
+      },
+      {
+        "name": "Harvest Spices",
+        "qty": 1
+      },
+      {
+        "name": "Black Foot Morel",
+        "qty": 2
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Tofurkey Gravy",
+        "qty": 3
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Tofurkey Gravy"
+  },
+  {
+    "name": "Tremon",
+    "level": 65,
+    "ingredients": [
+      {
+        "name": "Lemon",
+        "qty": 2
+      },
+      {
+        "name": "Guava",
+        "qty": 2
+      },
+      {
+        "name": "Fairy Honey",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Tremon",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Tremon"
+  },
+  {
+    "name": "Spicy Tofurkey Stir-Fry",
+    "level": 67,
+    "ingredients": [
+      {
+        "name": "Firm Tofu",
+        "qty": 1
+      },
+      {
+        "name": "Harvest Spices",
+        "qty": 1
+      },
+      {
+        "name": "Red Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Basil",
+        "qty": 1
+      },
+      {
+        "name": "Muntok Peppercorns",
+        "qty": 1
+      },
+      {
+        "name": "Corn",
+        "qty": 1
+      },
+      {
+        "name": "Olive Oil",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Spicy Tofurkey Stir-Fry",
+        "qty": 3
+      }
+    ],
+    "source": "Item: Cooking: Spicy Tofurkey Stir-Fry"
+  },
+  {
+    "name": "Trearclaw",
+    "level": 67,
+    "ingredients": [
+      {
+        "name": "Fairy Honey",
+        "qty": 2
+      },
+      {
+        "name": "Pear",
+        "qty": 1
+      },
+      {
+        "name": "Almonds",
+        "qty": 1
+      },
+      {
+        "name": "Sweet Butter",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Trearclaw",
+        "qty": 3
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Trearclaw"
+  },
+  {
+    "name": "Beast in the Tub",
+    "level": 68,
+    "ingredients": [
+      {
+        "name": "Hexameat",
+        "qty": 1
+      },
+      {
+        "name": "Catfish Fillet",
+        "qty": 2
+      },
+      {
+        "name": "Swamp Gourd",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Beast in the Tub",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Beast in the Tub"
+  },
+  {
+    "name": "Toasted Spriggan Nuts",
+    "level": 68,
+    "ingredients": [
+      {
+        "name": "Spriggan Nut",
+        "qty": 2
+      },
+      {
+        "name": "Almonds",
+        "qty": 1
+      },
+      {
+        "name": "Green Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Corn",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Toasted Spriggan Nuts",
+        "qty": 2
+      }
+    ],
+    "source": "Quest: Snack From The Homeland"
+  },
+  {
+    "name": "Rustic Meatsterpiece",
+    "level": 69,
+    "ingredients": [
+      {
+        "name": "Raw Great Chicken",
+        "qty": 1
+      },
+      {
+        "name": "Dinosaur Meat",
+        "qty": 1
+      },
+      {
+        "name": "Peas",
+        "qty": 1
+      },
+      {
+        "name": "Basil",
+        "qty": 1
+      },
+      {
+        "name": "Butter",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Rustic Meatsterpiece",
+        "qty": 2
+      }
+    ],
+    "source": "Quest: Gigantic Barbecue"
+  },
+  {
+    "name": "Baked Swamp Gourd",
+    "level": 70,
+    "ingredients": [
+      {
+        "name": "Swamp Gourd",
+        "qty": 2
+      },
+      {
+        "name": "Flour",
+        "qty": 2
+      },
+      {
+        "name": "Basil",
+        "qty": 1
+      },
+      {
+        "name": "Rattus Root",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Baked Swamp Gourd",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Baked Swamp Gourd"
+  },
+  {
+    "name": "Crone Coffee",
+    "level": 70,
+    "ingredients": [
+      {
+        "name": "Coffee Beans",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Goat Milk",
+        "qty": 1
+      },
+      {
+        "name": "Rattus Root",
+        "qty": 1
+      },
+      {
+        "name": "Sugar",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Crone Coffee",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Crone Coffee Quest: The Big Boss Birdie"
+  },
+  {
+    "name": "Grilled Amberjack",
+    "level": 70,
+    "ingredients": [
+      {
+        "name": "Amberjack Fillet",
+        "qty": 1
+      },
+      {
+        "name": "Lemon",
+        "qty": 1
+      },
+      {
+        "name": "Oregano",
+        "qty": 1
+      },
+      {
+        "name": "Spruce Wood Chips",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Grilled Amberjack",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Squidlips"
+  },
+  {
+    "name": "Pumpkin Salad",
+    "level": 70,
+    "ingredients": [
+      {
+        "name": "Pumpkin",
+        "qty": 1
+      },
+      {
+        "name": "Escarole",
+        "qty": 1
+      },
+      {
+        "name": "Cantaloupe",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Pumpkin Salad",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Pumpkin Salad Quest: Zhia Lian Event: Pumpkin Salad"
+  },
+  {
+    "name": "Swamp Gourd Fries",
+    "level": 70,
+    "ingredients": [
+      {
+        "name": "Swamp Gourd",
+        "qty": 2
+      },
+      {
+        "name": "Rattus Root",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 4
+      },
+      {
+        "name": "Dwarfnut Oil",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Swamp Gourd Fries",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Swamp Gourd Fries"
+  },
+  {
+    "name": "Tofu Pumpkin Kebab",
+    "level": 70,
+    "ingredients": [
+      {
+        "name": "Tofu",
+        "qty": 1
+      },
+      {
+        "name": "Pumpkin",
+        "qty": 1
+      },
+      {
+        "name": "Porcini Mushroom",
+        "qty": 1
+      },
+      {
+        "name": "Green Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Tofu Pumpkin Kebab",
+        "qty": 3
+      }
+    ],
+    "source": "Item: Cooking: Tofu Pumpkin Kebab"
+  },
+  {
+    "name": "Vexfish Lettuce Wraps",
+    "level": 70,
+    "ingredients": [
+      {
+        "name": "Escarole",
+        "qty": 1
+      },
+      {
+        "name": "Green Vexfish Fillet",
+        "qty": 2
+      },
+      {
+        "name": "Basil",
+        "qty": 1
+      },
+      {
+        "name": "Dill",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Vexfish Lettuce Wraps",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Floxie"
+  },
+  {
+    "name": "Amberjack Snack Attack",
+    "level": 72,
+    "ingredients": [
+      {
+        "name": "Amberjack Fillet",
+        "qty": 1
+      },
+      {
+        "name": "Escarole",
+        "qty": 1
+      },
+      {
+        "name": "Peas",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Amberjack Snack Attack",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Squidlips"
+  },
+  {
+    "name": "Crelpin's Fish Dish",
+    "level": 72,
+    "ingredients": [
+      {
+        "name": "Green Vexfish Fillet",
+        "qty": 2
+      },
+      {
+        "name": "Cantaloupe",
+        "qty": 1
+      },
+      {
+        "name": "Almonds",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Crelpin's Fish Dish",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Crelpin"
+  },
+  {
+    "name": "Hexameat Wraps",
+    "level": 72,
+    "ingredients": [
+      {
+        "name": "Hexameat",
+        "qty": 2
+      },
+      {
+        "name": "Yellow Perch Fillet",
+        "qty": 1
+      },
+      {
+        "name": "Red Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Swampweed",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Hexameat Wraps",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Hexameat Wraps"
+  },
+  {
+    "name": "Lemon-Glazed Tofurkey",
+    "level": 73,
+    "ingredients": [
+      {
+        "name": "Firm Tofu",
+        "qty": 1
+      },
+      {
+        "name": "Harvest Spices",
+        "qty": 1
+      },
+      {
+        "name": "Black Foot Morel",
+        "qty": 1
+      },
+      {
+        "name": "Lemon",
+        "qty": 1
+      },
+      {
+        "name": "Honey",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Lemon-Glazed Tofurkey",
+        "qty": 3
+      }
+    ],
+    "source": "Item: Cooking: Lemon-Glazed Tofurkey"
+  },
+  {
+    "name": "Pixie Pocket",
+    "level": 73,
+    "ingredients": [
+      {
+        "name": "Sprigganberries",
+        "qty": 1
+      },
+      {
+        "name": "Peach",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 1
+      },
+      {
+        "name": "Pixie Sugar",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Goat Milk",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Pixie Pocket",
+        "qty": 2
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Quest: Pixie's Whim: Pixie Pocket"
+  },
+  {
+    "name": "Top Swamp Steak",
+    "level": 74,
+    "ingredients": [
+      {
+        "name": "Amazing Steak",
+        "qty": 1
+      },
+      {
+        "name": "Basil",
+        "qty": 1
+      },
+      {
+        "name": "Corn",
+        "qty": 2
+      },
+      {
+        "name": "Swampweed",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Top Swamp Steak",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Floxie"
+  },
+  {
+    "name": "Cranberry-Glazed \"Meatballs\"",
+    "level": 75,
+    "ingredients": [
+      {
+        "name": "Tofu",
+        "qty": 1
+      },
+      {
+        "name": "Red Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      },
+      {
+        "name": "Cranberries",
+        "qty": 1
+      },
+      {
+        "name": "Juniper Berries",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Cranberry-Glazed \"Meatballs\"",
+        "qty": 3
+      }
+    ],
+    "source": "Item: Cooking: Cranberry-Glazed \"Meatballs\""
+  },
+  {
+    "name": "Crelpin's Corn Dish",
+    "level": 75,
+    "ingredients": [
+      {
+        "name": "Corn",
+        "qty": 2
+      },
+      {
+        "name": "Peas",
+        "qty": 1
+      },
+      {
+        "name": "Red Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Butter",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Crelpin's Corn Dish",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Crelpin"
+  },
+  {
+    "name": "Crelpin's Fruit Juice",
+    "level": 75,
+    "ingredients": [
+      {
+        "name": "Pear",
+        "qty": 2
+      },
+      {
+        "name": "Peach",
+        "qty": 1
+      },
+      {
+        "name": "Sprigganberries",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 2
+      },
+      {
+        "name": "Pixie Sugar",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Crelpin's Fruit Juice",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Crelpin"
+  },
+  {
+    "name": "Crelpin's Gorp",
+    "level": 75,
+    "ingredients": [
+      {
+        "name": "Fairy Honey",
+        "qty": 1
+      },
+      {
+        "name": "Beetle",
+        "qty": 1
+      },
+      {
+        "name": "Robust Beast Meat",
+        "qty": 1
+      },
+      {
+        "name": "Grapes",
+        "qty": 2
+      },
+      {
+        "name": "Green Apple",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Crelpin's Gorp",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Crelpin"
+  },
+  {
+    "name": "Groovalu",
+    "level": 75,
+    "ingredients": [
+      {
+        "name": "Spriggan Nut",
+        "qty": 2
+      },
+      {
+        "name": "Basil",
+        "qty": 2
+      },
+      {
+        "name": "Swampweed",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Groovalu",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Floxie"
+  },
+  {
+    "name": "Yellow Perch Ranalon-Style",
+    "level": 75,
+    "ingredients": [
+      {
+        "name": "Yellow Perch Fillet",
+        "qty": 2
+      },
+      {
+        "name": "Snail",
+        "qty": 2
+      },
+      {
+        "name": "Frog Legs",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Yellow Perch Ranalon-Style",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Yellow Perch Ranalon-Style"
+  },
+  {
+    "name": "Yellowwhisker",
+    "level": 75,
+    "ingredients": [
+      {
+        "name": "Cantaloupe",
+        "qty": 1
+      },
+      {
+        "name": "Coffee Beans",
+        "qty": 2
+      },
+      {
+        "name": "Juniper Berries",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Yellowwhisker",
+        "qty": 2
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Yellowwhisker"
+  },
+  {
+    "name": "Crelpin's Side Salad",
+    "level": 76,
+    "ingredients": [
+      {
+        "name": "Escarole",
+        "qty": 1
+      },
+      {
+        "name": "Basil",
+        "qty": 1
+      },
+      {
+        "name": "Peas",
+        "qty": 1
+      },
+      {
+        "name": "Olive Oil",
+        "qty": 1
+      },
+      {
+        "name": "Expert's Vinegar",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Crelpin's Side Salad",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Crelpin"
+  },
+  {
+    "name": "Tofurkey With Cranberry Sauce",
+    "level": 77,
+    "ingredients": [
+      {
+        "name": "Firm Tofu",
+        "qty": 1
+      },
+      {
+        "name": "Harvest Spices",
+        "qty": 1
+      },
+      {
+        "name": "Basil",
+        "qty": 1
+      },
+      {
+        "name": "Cranberries",
+        "qty": 1
+      },
+      {
+        "name": "Juniper Berries",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Tofurkey With Cranberry Sauce",
+        "qty": 3
+      }
+    ],
+    "source": "Item: Cooking: Tofurkey With Cranberry Sauce"
+  },
+  {
+    "name": "Tregetable Steak",
+    "level": 77,
+    "ingredients": [
+      {
+        "name": "Spriggan Nut",
+        "qty": 1
+      },
+      {
+        "name": "Peas",
+        "qty": 1
+      },
+      {
+        "name": "Basil",
+        "qty": 1
+      },
+      {
+        "name": "Amazing Steak",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Tregetable Steak",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Tregetablesteak"
+  },
+  {
+    "name": "Turkey Stir-Fry",
+    "level": 77,
+    "ingredients": [
+      {
+        "name": "Plump Raw Turkey",
+        "qty": 1
+      },
+      {
+        "name": "Dill",
+        "qty": 1
+      },
+      {
+        "name": "Corn",
+        "qty": 1
+      },
+      {
+        "name": "Peas",
+        "qty": 1
+      },
+      {
+        "name": "Muntok Peppercorns",
+        "qty": 1
+      },
+      {
+        "name": "Seaweed",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Turkey Stir-Fry",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Turkey Stir-Fry"
+  },
+  {
+    "name": "Treas",
+    "level": 78,
+    "ingredients": [
+      {
+        "name": "Peas",
+        "qty": 2
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      },
+      {
+        "name": "Basil",
+        "qty": 1
+      },
+      {
+        "name": "Corn",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Treas",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Treas"
+  },
+  {
+    "name": "Crelpin's Fruit Salad",
+    "level": 80,
+    "ingredients": [
+      {
+        "name": "Pear",
+        "qty": 1
+      },
+      {
+        "name": "Peach",
+        "qty": 1
+      },
+      {
+        "name": "Cantaloupe",
+        "qty": 1
+      },
+      {
+        "name": "Sprigganberries",
+        "qty": 1
+      },
+      {
+        "name": "Grapes",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Crelpin's Fruit Salad",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Crelpin"
+  },
+  {
+    "name": "Crisp Mint Vanilla Cinnamon Coffee",
+    "level": 80,
+    "ingredients": [
+      {
+        "name": "Coffee Beans",
+        "qty": 3
+      },
+      {
+        "name": "Cinnamon",
+        "qty": 1
+      },
+      {
+        "name": "Vanilla",
+        "qty": 1
+      },
+      {
+        "name": "Mint",
+        "qty": 2
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Milk",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Crisp Mint Vanilla Cinnamon Coffee",
+        "qty": 3
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 2
+      }
+    ],
+    "source": "Quest: Zhia Lian Event: I Fancy a Drink"
+  },
+  {
+    "name": "Evu Fruit Smoothie",
+    "level": 80,
+    "ingredients": [
+      {
+        "name": "Evu Fruit",
+        "qty": 2
+      },
+      {
+        "name": "Bottle of Milk",
+        "qty": 1
+      },
+      {
+        "name": "Cinnamon",
+        "qty": 2
+      },
+      {
+        "name": "Sugar",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Evu Fruit Smoothie",
+        "qty": 2
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Evu Fruit Smoothie"
+  },
+  {
+    "name": "Fairy Peach Juice",
+    "level": 80,
+    "ingredients": [
+      {
+        "name": "Peach",
+        "qty": 2
+      },
+      {
+        "name": "Sprigganberries",
+        "qty": 1
+      },
+      {
+        "name": "Cantaloupe",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Fairy Peach Juice",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Floxie"
+  },
+  {
+    "name": "Hexameat Soup",
+    "level": 80,
+    "ingredients": [
+      {
+        "name": "Hexameat",
+        "qty": 3
+      },
+      {
+        "name": "Frog Legs",
+        "qty": 3
+      },
+      {
+        "name": "Cleaned Shrimp",
+        "qty": 6
+      },
+      {
+        "name": "Kuvou Tongue",
+        "qty": 2
+      },
+      {
+        "name": "Amazing Steak",
+        "qty": 3
+      },
+      {
+        "name": "Basil",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Milk",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Hexameat Soup",
+        "qty": 6
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Hexameat Soup"
+  },
+  {
+    "name": "Orcish Flatbread",
+    "level": 80,
+    "ingredients": [
+      {
+        "name": "Orcish Flour",
+        "qty": 4
+      },
+      {
+        "name": "Honey",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Orcish Flatbread",
+        "qty": 2
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Orcish Flatbread"
+  },
+  {
+    "name": "Orcish Flour",
+    "level": 80,
+    "ingredients": [
+      {
+        "name": "Orcish Wheat Grinder",
+        "qty": 1
+      },
+      {
+        "name": "Orcish Wheat",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Orcish Flour",
+        "qty": 1
+      },
+      {
+        "name": "Orcish Flour",
+        "qty": 1
+      }
+    ],
+    "source": "Effect: is unknown"
+  },
+  {
+    "name": "Povus Coffee",
+    "level": 80,
+    "ingredients": [
+      {
+        "name": "Coffee Beans",
+        "qty": 3
+      },
+      {
+        "name": "Swamp Gourd",
+        "qty": 1
+      },
+      {
+        "name": "Povus Gur-Horta Leaves",
+        "qty": 1
+      },
+      {
+        "name": "Snail",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Milk",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Povus Coffee",
+        "qty": 3
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Povus Coffee"
+  },
+  {
+    "name": "Pumpkin Spice Coffee",
+    "level": 80,
+    "ingredients": [
+      {
+        "name": "Coffee Beans",
+        "qty": 2
+      },
+      {
+        "name": "Pumpkin",
+        "qty": 1
+      },
+      {
+        "name": "Cinnamon",
+        "qty": 1
+      },
+      {
+        "name": "Honey",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Milk",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Pumpkin Spice Coffee",
+        "qty": 2
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Pumpkin Spice Coffee"
+  },
+  {
+    "name": "Tofu and Evu Fruit Skewers",
+    "level": 80,
+    "ingredients": [
+      {
+        "name": "Firm Tofu",
+        "qty": 1
+      },
+      {
+        "name": "Evu Fruit",
+        "qty": 2
+      },
+      {
+        "name": "Green Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Tofu and Evu Fruit Skewers",
+        "qty": 4
+      }
+    ],
+    "source": "Item: Cooking: Tofu and Evu Fruit Skewers"
+  },
+  {
+    "name": "Tofurkey Veggie Loaf",
+    "level": 80,
+    "ingredients": [
+      {
+        "name": "Soft Tofu",
+        "qty": 1
+      },
+      {
+        "name": "Harvest Spices",
+        "qty": 1
+      },
+      {
+        "name": "Peas",
+        "qty": 1
+      },
+      {
+        "name": "Corn",
+        "qty": 1
+      },
+      {
+        "name": "Red Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Green Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Flour",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Tofurkey Veggie Loaf",
+        "qty": 3
+      }
+    ],
+    "source": "Item: Cooking: Tofurkey Veggie Loaf"
+  },
+  {
+    "name": "Tomato Soup",
+    "level": 80,
+    "ingredients": [
+      {
+        "name": "Tomato",
+        "qty": 4
+      },
+      {
+        "name": "Carrot",
+        "qty": 3
+      },
+      {
+        "name": "Onion",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Tomato Soup",
+        "qty": 4
+      }
+    ],
+    "source": "Item: Cooking: Tomato Soup"
+  },
+  {
+    "name": "Flatbread Chips and Salsa",
+    "level": 81,
+    "ingredients": [
+      {
+        "name": "Orcish Flatbread",
+        "qty": 2
+      },
+      {
+        "name": "Tomato",
+        "qty": 1
+      },
+      {
+        "name": "Green Pepper",
+        "qty": 1
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Flatbread Chips and Salsa",
+        "qty": 4
+      }
+    ],
+    "source": "Item: Cooking: Flatbread Chips and Salsa"
+  },
+  {
+    "name": "Beefy Tomato Soup",
+    "level": 82,
+    "ingredients": [
+      {
+        "name": "Tomato",
+        "qty": 4
+      },
+      {
+        "name": "Great Steak",
+        "qty": 3
+      },
+      {
+        "name": "Onion",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Beefy Tomato Soup",
+        "qty": 4
+      }
+    ],
+    "source": "Item: Cooking: Beefy Tomato Soup"
+  },
+  {
+    "name": "Candied Evu Fruit",
+    "level": 82,
+    "ingredients": [
+      {
+        "name": "Evu Fruit",
+        "qty": 2
+      },
+      {
+        "name": "Walnuts",
+        "qty": 1
+      },
+      {
+        "name": "Lemon",
+        "qty": 2
+      },
+      {
+        "name": "Sugar",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Candied Evu Fruit",
+        "qty": 3
+      }
+    ],
+    "source": "Item: Cooking: Candied Evu Fruit"
+  },
+  {
+    "name": "Orcish Ragant",
+    "level": 82,
+    "ingredients": [
+      {
+        "name": "Orcish Flour",
+        "qty": 6
+      },
+      {
+        "name": "Potato",
+        "qty": 4
+      },
+      {
+        "name": "Squash",
+        "qty": 3
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Orcish Ragant",
+        "qty": 4
+      }
+    ],
+    "source": "Item: Cooking: Orcish Ragant"
+  },
+  {
+    "name": "Pumpkin Tomato Soup",
+    "level": 82,
+    "ingredients": [
+      {
+        "name": "Tomato",
+        "qty": 4
+      },
+      {
+        "name": "Pumpkin",
+        "qty": 3
+      },
+      {
+        "name": "Onion",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Pumpkin Tomato Soup",
+        "qty": 4
+      }
+    ],
+    "source": "Item: Cooking: Pumpkin Tomato Soup"
+  },
+  {
+    "name": "Steak and Cheese Wraps",
+    "level": 82,
+    "ingredients": [
+      {
+        "name": "Amazing Steak",
+        "qty": 1
+      },
+      {
+        "name": "Escarole",
+        "qty": 1
+      },
+      {
+        "name": "Corn",
+        "qty": 1
+      },
+      {
+        "name": "Cantal Cheese",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Steak and Cheese Wraps",
+        "qty": 2
+      }
+    ],
+    "source": "Training: Floxie"
+  },
+  {
+    "name": "Crelpin's Tart",
+    "level": 83,
+    "ingredients": [
+      {
+        "name": "Green Apple",
+        "qty": 3
+      },
+      {
+        "name": "Pear",
+        "qty": 1
+      },
+      {
+        "name": "Almonds",
+        "qty": 1
+      },
+      {
+        "name": "Pixie Sugar",
+        "qty": 1
+      },
+      {
+        "name": "Bottle of Water",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Crelpin's Tart",
+        "qty": 2
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Training: Crelpin"
+  },
+  {
+    "name": "Human-Style Pizza",
+    "level": 83,
+    "ingredients": [
+      {
+        "name": "Orcish Flour",
+        "qty": 3
+      },
+      {
+        "name": "Tomato",
+        "qty": 1
+      },
+      {
+        "name": "Mozzarella Cheese",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Human-Style Pizza",
+        "qty": 4
+      }
+    ],
+    "source": "Item: Cooking: Human-Style Pizza"
+  },
+  {
+    "name": "\"Meaty\" Tomato Soup",
+    "level": 84,
+    "ingredients": [
+      {
+        "name": "Tomato",
+        "qty": 3
+      },
+      {
+        "name": "Tofu",
+        "qty": 1
+      },
+      {
+        "name": "Onion",
+        "qty": 1
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "\"Meaty\" Tomato Soup",
+        "qty": 4
+      }
+    ],
+    "source": "Item: Cooking: \"Meaty\" Tomato Soup"
+  },
+  {
+    "name": "Evu Cream of Wheat",
+    "level": 84,
+    "ingredients": [
+      {
+        "name": "Orcish Wheat",
+        "qty": 4
+      },
+      {
+        "name": "Evu Fruit",
+        "qty": 1
+      },
+      {
+        "name": "Spruce Wood Chips",
+        "qty": 3
+      },
+      {
+        "name": "Bottle of Milk",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Evu Cream of Wheat",
+        "qty": 4
+      },
+      {
+        "name": "Empty Bottle",
+        "qty": 1
+      }
+    ],
+    "source": "Item: Cooking: Evu Cream of Wheat"
+  },
+  {
+    "name": "Povus Ragant",
+    "level": 84,
+    "ingredients": [
+      {
+        "name": "Orcish Flour",
+        "qty": 6
+      },
+      {
+        "name": "Potato",
+        "qty": 4
+      },
+      {
+        "name": "Swamp Gourd",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Povus Ragant",
+        "qty": 4
+      }
+    ],
+    "source": "Item: Cooking: Povus Ragant"
+  },
+  {
+    "name": "Meaty Human-Style Pizza",
+    "level": 85,
+    "ingredients": [
+      {
+        "name": "Orcish Flour",
+        "qty": 3
+      },
+      {
+        "name": "Tomato",
+        "qty": 1
+      },
+      {
+        "name": "Mozzarella Cheese",
+        "qty": 1
+      },
+      {
+        "name": "Bacon",
+        "qty": 3
+      },
+      {
+        "name": "Cheap Meat",
+        "qty": 1
+      },
+      {
+        "name": "Cheap Meat",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Meaty Human-Style Pizza",
+        "qty": 4
+      }
+    ],
+    "source": "Item: Cooking: Meaty Human-Style Pizza"
+  },
+  {
+    "name": "Uraknocha",
+    "level": 85,
+    "ingredients": [
+      {
+        "name": "Uraknocha Noodles",
+        "qty": 1
+      },
+      {
+        "name": "Tomato",
+        "qty": 1
+      },
+      {
+        "name": "Almonds",
+        "qty": 1
+      },
+      {
+        "name": "Corn",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Uraknocha",
+        "qty": 2
+      }
+    ],
+    "source": "Item: Cooking: Uraknocha"
+  },
+  {
+    "name": "Great Chicken Couscous",
+    "level": 86,
+    "ingredients": [
+      {
+        "name": "Orcish Flour",
+        "qty": 6
+      },
+      {
+        "name": "Raw Great Chicken",
+        "qty": 2
+      },
+      {
+        "name": "Mint",
+        "qty": 2
+      },
+      {
+        "name": "Olive Oil",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Great Chicken Couscous",
+        "qty": 4
+      }
+    ],
+    "source": "Item: Cooking: Great Chicken Couscous"
+  },
+  {
+    "name": "Orcish Chopped Salad",
+    "level": 86,
+    "ingredients": [
+      {
+        "name": "Orcish Wheat",
+        "qty": 4
+      },
+      {
+        "name": "Tomato",
+        "qty": 1
+      },
+      {
+        "name": "Mint",
+        "qty": 2
+      },
+      {
+        "name": "Olive Oil",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Orcish Chopped Salad",
+        "qty": 4
+      }
+    ],
+    "source": "Item: Cooking: Orcish Chopped Salad"
+  },
+  {
+    "name": "Evu Nut Salad",
+    "level": 87,
+    "ingredients": [
+      {
+        "name": "Evu Fruit",
+        "qty": 2
+      },
+      {
+        "name": "Escarole",
+        "qty": 1
+      },
+      {
+        "name": "Walnuts",
+        "qty": 1
+      },
+      {
+        "name": "Expert's Vinegar",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Evu Nut Salad",
+        "qty": 3
+      }
+    ],
+    "source": "Item: Cooking: Evu Nut Salad"
+  },
+  {
+    "name": "Hot Corn and Tomato Salad",
+    "level": 88,
+    "ingredients": [
+      {
+        "name": "Tomato",
+        "qty": 2
+      },
+      {
+        "name": "Corn",
+        "qty": 2
+      },
+      {
+        "name": "Basil",
+        "qty": 1
+      },
+      {
+        "name": "Olive Oil",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Hot Corn and Tomato Salad",
+        "qty": 3
+      }
+    ],
+    "source": "Item: Cooking: Hot Corn and Tomato Salad"
+  },
+  {
+    "name": "Human-Style Pizza with Tofu",
+    "level": 88,
+    "ingredients": [
+      {
+        "name": "Orcish Flour",
+        "qty": 3
+      },
+      {
+        "name": "Tomato",
+        "qty": 1
+      },
+      {
+        "name": "Mozzarella Cheese",
+        "qty": 1
+      },
+      {
+        "name": "Tofu",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Human-Style Pizza with Tofu",
+        "qty": 4
+      }
+    ],
+    "source": "Item: Cooking: Human-Style Pizza with Tofu"
+  },
+  {
+    "name": "Beef Spaghetti",
+    "level": 90,
+    "ingredients": [
+      {
+        "name": "Uraknocha Noodles",
+        "qty": 2
+      },
+      {
+        "name": "Tomato",
+        "qty": 2
+      },
+      {
+        "name": "Amazing Steak",
+        "qty": 1
+      },
+      {
+        "name": "Parmesan Cheese",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Beef Spaghetti",
+        "qty": 4
+      }
+    ],
+    "source": "Item: Cooking: Beef Spaghetti"
+  },
+  {
+    "name": "Evu Mint Pork",
+    "level": 90,
+    "ingredients": [
+      {
+        "name": "Evu Fruit",
+        "qty": 4
+      },
+      {
+        "name": "Great Pork Shoulder",
+        "qty": 1
+      },
+      {
+        "name": "Mint",
+        "qty": 2
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Evu Mint Pork",
+        "qty": 4
+      }
+    ],
+    "source": "Item: Cooking: Evu Mint Pork"
+  },
+  {
+    "name": "Mulberry Salad",
+    "level": 90,
+    "ingredients": [
+      {
+        "name": "Mulberries",
+        "qty": 1
+      },
+      {
+        "name": "Red-Leaf Lettuce",
+        "qty": 1
+      },
+      {
+        "name": "Walnuts",
+        "qty": 1
+      },
+      {
+        "name": "Expert's Vinegar",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Mulberry Salad",
+        "qty": 3
+      }
+    ],
+    "source": "Training: Truxartis"
+  },
+  {
+    "name": "Salmon with Roasted Tomatoes",
+    "level": 90,
+    "ingredients": [
+      {
+        "name": "Salmon Fillet",
+        "qty": 4
+      },
+      {
+        "name": "Tomato",
+        "qty": 2
+      },
+      {
+        "name": "Green Pepper",
+        "qty": 3
+      },
+      {
+        "name": "Salt",
+        "qty": 1
+      }
+    ],
+    "results": [
+      {
+        "name": "Salmon with Roasted Tomatoes",
+        "qty": 4
+      }
+    ],
+    "source": "Item: Cooking: Salmon with Roasted Tomatoes"
+  }
+]
