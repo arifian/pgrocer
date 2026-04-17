@@ -120,6 +120,10 @@ data/cache/             scraped wiki data (generated)
 - Support more skills via registry extension.
 - Ingredient source annotations (which NPC / zone).
 
+## Decisions log
+
+See [docs/decisions.md](docs/decisions.md) for hosting, domain, and monetization decisions.
+
 ## License
 
 MIT — see [LICENSE.md](LICENSE.md).

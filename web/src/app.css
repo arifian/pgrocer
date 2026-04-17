@@ -1,0 +1,57 @@
+:root {
+  --pico-font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+main.container {
+  padding-block: 2rem;
+  max-width: 1100px;
+}
+
+.tier {
+  margin-block-end: 2rem;
+}
+
+.tier h3 {
+  margin-block-end: 0.5rem;
+}
+
+table.sortable th {
+  cursor: pointer;
+  user-select: none;
+}
+
+table.sortable th[aria-sort] {
+  text-decoration: underline;
+}
+
+.toolbar {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-block: 1rem;
+}
+
+.muted {
+  color: var(--pico-muted-color);
+  font-size: 0.9em;
+}
+
+.drop-zone {
+  border: 2px dashed var(--pico-muted-border-color);
+  padding: 2rem;
+  text-align: center;
+  border-radius: var(--pico-border-radius);
+}
+
+.drop-zone.active {
+  border-color: var(--pico-primary);
+  background: var(--pico-primary-background);
+}
+
+footer.container {
+  padding-block: 2rem;
+  text-align: center;
+  font-size: 0.9em;
+  color: var(--pico-muted-color);
+}

@@ -1,10 +1,14 @@
 import type { SkillConfig } from './types.js';
 
 export const SKILLS: Record<string, SkillConfig> = {
-  cooking: {
-    skill: 'Cooking',
-    url: 'https://wiki.projectgorgon.com/wiki/Cooking/Recipes',
-  },
+    cooking: {
+        skill: 'Cooking',
+        url: 'https://wiki.projectgorgon.com/wiki/Cooking/Recipes',
+    },
+    alchemy: {
+        skill: 'Alchemy',
+        url: 'https://wiki.projectgorgon.com/wiki/Alchemy/Recipes'
+    },
 };
 
 export function getSkill(name: string): SkillConfig {

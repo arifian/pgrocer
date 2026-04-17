@@ -4,10 +4,16 @@
   "description": "Project Gorgon grocery list generator",
   "license": "MIT",
   "type": "module",
+  "workspaces": [
+    "web"
+  ],
   "scripts": {
     "scrape": "tsx src/cli/scrape.ts",
     "grocer": "tsx src/cli/grocer.ts",
-    "build": "tsc"
+    "build": "tsc",
+    "web:dev": "npm -w web run dev",
+    "web:build": "npm run cache:sync && npm -w web run build",
+    "cache:sync": "node scripts/sync-cache.mjs"
   },
   "dependencies": {
     "cheerio": "^1.0.0"

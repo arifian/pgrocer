@@ -1,6 +1,6 @@
 import { getSkill } from '../skills.js';
 import { getRecipes } from '../scraper/cache.js';
-import { findCharacterFile, loadCharacter } from '../character.js';
+import { findCharacterFile, loadCharacter } from '../character-node.js';
 import { buildGroceryByTier } from '../grocery.js';
 import type { TierBucket } from '../types.js';
 
