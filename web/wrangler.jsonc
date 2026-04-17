@@ -1,0 +1,8 @@
+{
+  "$schema": "https://unpkg.com/wrangler/config-schema.json",
+  "name": "pgrocer",
+  "compatibility_date": "2026-04-17",
+  "assets": {
+    "directory": "./dist"
+  }
+}
