@@ -2,6 +2,7 @@
   "name": "pgrocer",
   "version": "0.1.0",
   "description": "Project Gorgon grocery list generator",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "scrape": "tsx src/cli/scrape.ts",

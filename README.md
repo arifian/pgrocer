@@ -119,3 +119,7 @@ data/cache/             scraped wiki data (generated)
 - Web app (Astro static export): upload character JSON client-side, render tiers, no backend.
 - Support more skills via registry extension.
 - Ingredient source annotations (which NPC / zone).
+
+## License
+
+MIT — see [LICENSE.md](LICENSE.md).
